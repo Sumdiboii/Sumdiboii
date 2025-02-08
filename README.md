@@ -1,19 +1,23 @@
-<h1 align="center">Hello there, I am Sumedh Pimplikar</h1>
-<h3 align="justify">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. I am comfortable working with C++ and Java, and for front-end development, I primarily use React. Beyond coding, I have experience with 3D modeling and digital design, using tools like Blender, Maya, and Photoshop. I am well-versed in operating systems, including Linux, Windows, and macOS. My curiosity for Machine Learning led me to work on an Indian Sign Language recognition project, where I tested various algorithms to improve accuracy. Outside of tech, I enjoy documenting my life through writing and maintaining a diary. I also dedicate 1-2 hours daily to martial arts training and continuously work on improving my guitar skills.</h3>
+<h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
+<h3 align="justfiy">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. 
+<br>
+I am comfortable working with C++ and Java, and for front-end development, I primarily use React. Beyond coding, I have experience with 3D modeling and digital design, using tools like Blender, Maya, and Photoshop. I am well-versed in operating systems, including Linux, Windows, and macOS. My curiosity for Machine Learning led me to work on an Indian Sign Language recognition project, where I tested various algorithms to improve accuracy.
+<br>  
+Outside of tech, I enjoy documenting my life through writing and maintaining a diary. I also dedicate 1-2 hours daily to martial arts training and continuously work on improving my guitar skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumdiboii&label=Profile%20views&color=0e75b6&style=flat" alt="sumdiboii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumdiboii" alt="sumdiboii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Parkinson's Prediction via Machine Learning**
 
-- 🟨 My LeetCode Profile [sumedhiscodinglol](https://leetcode.com/u/sumedhiscodinglol/)
+- 🌱 I’m currently learning **Operating Systems, Machine Learning and Data Structures**
 
-- 🟦 My Linked In Profile [Sumedh Pimplikar](https://www.linkedin.com/in/sumedh-pimplikar/)
+- 🔎🟨 My LeetCode Profile [sumedhiscodinglol](https://leetcode.com/u/sumedhiscodinglol/)
 
-- 📫 How to reach me **spimplikar08@gmail.com**
+- 🔎🟦 My Linked In Profile [Sumedh Pimplikar](https://www.linkedin.com/in/sumedh-pimplikar/)
+
+- 📫 How to reach me **spimplikar08@gmail.com or sumedh.pimplikar22@pccoepune.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
