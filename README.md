@@ -1,8 +1,12 @@
 <h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
 <h3 align="justfiy">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. 
 <br>
+<br>
+<br>
 I am comfortable working with C++ and Java, and for front-end development, I primarily use React. Beyond coding, I have experience with 3D modeling and digital design, using tools like Blender, Maya, and Photoshop. I am well-versed in operating systems, including Linux, Windows, and macOS. My curiosity for Machine Learning led me to work on an Indian Sign Language recognition project, where I tested various algorithms to improve accuracy.
 <br>  
+<br>
+<br>
 Outside of tech, I enjoy documenting my life through writing and maintaining a diary. I also dedicate 1-2 hours daily to martial arts training and continuously work on improving my guitar skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumdiboii&label=Profile%20views&color=0e75b6&style=flat" alt="sumdiboii" /> </p>
