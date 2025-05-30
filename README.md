@@ -4,6 +4,7 @@
 
 </p>
 
+<br>
 
 <!-- TITLE with Animated Typing Effect -->
 <p align="center">
@@ -14,6 +15,13 @@
   <img src="https://img.icons8.com/ios-filled/100/00FFFF/diamond.png" width="80" alt="Diamond Icon" />
 </p>
 
+<br>
+
+<p align="center">
+  
+  ![Copy of Hello there ! (1)](https://github.com/user-attachments/assets/345c402c-a0de-40ec-b84e-cf8e176e6169)
+
+</p>
 
 <h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
 <h3 align="justfiy">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. 
