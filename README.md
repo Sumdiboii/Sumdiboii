@@ -1,11 +1,18 @@
 <p align="center">
   
-  
-  
   ![Hello there !](https://github.com/user-attachments/assets/a4180b7c-035f-4b35-b4b6-822b7557beee)
 
 </p>
 
+
+<!-- TITLE with Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Polishing+Ideas+into+Code.;Every+line+a+step+closer+to+perfection.;Turning+complexity+into+clarity.;Let+the+code+speak+for+itself." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/00FFFF/diamond.png" width="80" alt="Diamond Icon" />
+</p>
 
 
 <h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
