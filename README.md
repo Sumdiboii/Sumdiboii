@@ -2,9 +2,12 @@
   
   ![Hello there ! (1)](https://github.com/user-attachments/assets/b50ee559-d676-46a1-8ff5-469c09977c95)
 
+
 </p>
 
 <p align="center">
+
+![final-scroller-ezgif com-optimize](https://github.com/user-attachments/assets/f7383287-1fcc-452e-93be-ede412540ff3)
 
   ![Copy of Hello there ! (2)](https://github.com/user-attachments/assets/3abdcb90-58ad-4093-ad35-3c697ceba455)
 
@@ -16,37 +19,22 @@
 
   ![Copy of Some of my work](https://github.com/user-attachments/assets/f8925142-9f6b-4a64-a7c2-b2e8774616ce)
 
-
-
-
 </p>
 
 
 
-<h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
-<h3 align="justfiy">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. 
-<br>
-<br>
-<br>
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sumedhiscodinglol/)
 
-I am comfortable working with C++ and Java, and for front-end development, I primarily use React. Beyond coding, I have experience with 3D modeling and digital design, using tools like Blender, Maya, and Photoshop. I am well-versed in operating systems, including Linux, Windows, and macOS. My curiosity for Machine Learning led me to work on an Indian Sign Language recognition project, where I tested various algorithms to improve accuracy.
-<br>  
-
+<p align="center">
+  <a href="https://leetcode.com/sumedhiscodinglol/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="LeetCode" style="width: 100px;"/>
+  </a>
+</p>
 
 
 
 
-<br>
-<br>
-Outside of tech, I enjoy documenting my life through writing and maintaining a diary. I also dedicate 1-2 hours daily to martial arts training and continuously work on improving my guitar skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumdiboii&label=Profile%20views&color=0e75b6&style=flat" alt="sumdiboii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumdiboii" alt="sumdiboii" /></a> </p>
-
-- 🔭 I’m currently working on **Parkinson's Prediction via Machine Learning**
-
-- 🌱 I’m currently learning **Operating Systems, Machine Learning and Data Structures**
 
 - 🔎🟨 My LeetCode Profile [sumedhiscodinglol](https://leetcode.com/u/sumedhiscodinglol/)
 
