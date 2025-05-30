@@ -7,7 +7,9 @@
 
 <p align="center">
 
-![final-scroller-ezgif com-optimize](https://github.com/user-attachments/assets/f7383287-1fcc-452e-93be-ede412540ff3)
+![final-scroller-border-ezgif com-optimize](https://github.com/user-attachments/assets/ca13495e-a6d7-4c63-bfbf-3cbf1efce7d5)
+
+![aboutme](https://github.com/user-attachments/assets/e4cd3354-3594-44f6-9845-643245decdf1)
 
   ![Copy of Hello there ! (2)](https://github.com/user-attachments/assets/3abdcb90-58ad-4093-ad35-3c697ceba455)
 
