@@ -4,24 +4,15 @@
 
 </p>
 
-<br>
-
-<!-- TITLE with Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Polishing+Ideas+into+Code.;Every+line+a+step+closer+to+perfection.;Turning+complexity+into+clarity.;Let+the+code+speak+for+itself." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/00FFFF/diamond.png" width="80" alt="Diamond Icon" />
-</p>
-
-<br>
-
 <p align="center">
   
   ![Copy of Hello there ! (1)](https://github.com/user-attachments/assets/345c402c-a0de-40ec-b84e-cf8e176e6169)
+  
+  ![Your paragraph text (14)](https://github.com/user-attachments/assets/2915c7e2-9a27-4838-bf62-b3e606811cdc)
 
 </p>
+
+
 
 <h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
 <h3 align="justfiy">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. 
@@ -68,3 +59,13 @@ Outside of tech, I enjoy documenting my life through writing and maintaining a d
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumdiboii&show_icons=true&locale=en" alt="sumdiboii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumdiboii&" alt="sumdiboii" /></p>
+
+
+<!-- TITLE with Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Polishing+Ideas+into+Code.;Every+line+a+step+closer+to+perfection.;Turning+complexity+into+clarity.;Let+the+code+speak+for+itself." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/00FFFF/diamond.png" width="80" alt="Diamond Icon" />
+</p>
