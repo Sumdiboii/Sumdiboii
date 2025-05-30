@@ -2,7 +2,11 @@
   
   <img src="https://github.com/user-attachments/assets/450621c8-0381-4c00-8000-922c65627c71" alt="chrome-capture-2025-5-30-ezgif com-crop (2)">
   
+  ![Hello there !](https://github.com/user-attachments/assets/a4180b7c-035f-4b35-b4b6-822b7557beee)
+
 </p>
+
+
 
 <h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
 <h3 align="justfiy">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. 
