@@ -5,10 +5,17 @@
 </p>
 
 <p align="center">
-  
+
   ![Copy of Hello there ! (1)](https://github.com/user-attachments/assets/345c402c-a0de-40ec-b84e-cf8e176e6169)
+
+  ![Some of my work](https://github.com/user-attachments/assets/dc695e72-daa5-446e-9974-26c5d8d0d0b5)
+
+  ![Copy of Your paragraph text (1)](https://github.com/user-attachments/assets/dd2b035f-1896-430d-b0f8-4cc50a05b754)
   
   ![Your paragraph text (14)](https://github.com/user-attachments/assets/2915c7e2-9a27-4838-bf62-b3e606811cdc)
+
+
+
 
 </p>
 
