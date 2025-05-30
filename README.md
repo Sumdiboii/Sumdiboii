@@ -1,3 +1,9 @@
+<p align="center"> 
+  
+  ![ScreenRecording2025-05-30232957-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fdb4d80e-8467-4348-adaf-4bb527d6d189) 
+  
+  </p>
+
 <h1 align="center">👋Hello there, I am Sumedh Pimplikar😊</h1>
 <h3 align="justfiy">I am a Computer Engineering undergraduate student with a strong passion for development. I love working on diverse projects that challenge my skills and push me to learn more. My expertise spans across software development, competitive coding, and graphic design. 
 <br>
@@ -5,6 +11,11 @@
 <br>
 I am comfortable working with C++ and Java, and for front-end development, I primarily use React. Beyond coding, I have experience with 3D modeling and digital design, using tools like Blender, Maya, and Photoshop. I am well-versed in operating systems, including Linux, Windows, and macOS. My curiosity for Machine Learning led me to work on an Indian Sign Language recognition project, where I tested various algorithms to improve accuracy.
 <br>  
+
+
+
+
+
 <br>
 <br>
 Outside of tech, I enjoy documenting my life through writing and maintaining a diary. I also dedicate 1-2 hours daily to martial arts training and continuously work on improving my guitar skills.</h3>
