@@ -1,18 +1,20 @@
 <p align="center">
   
-  ![Hello there !](https://github.com/user-attachments/assets/a4180b7c-035f-4b35-b4b6-822b7557beee)
+  ![Hello there ! (1)](https://github.com/user-attachments/assets/b50ee559-d676-46a1-8ff5-469c09977c95)
 
 </p>
 
 <p align="center">
 
-  ![Copy of Hello there ! (1)](https://github.com/user-attachments/assets/345c402c-a0de-40ec-b84e-cf8e176e6169)
+  ![Copy of Hello there ! (2)](https://github.com/user-attachments/assets/3abdcb90-58ad-4093-ad35-3c697ceba455)
 
-  ![Some of my work](https://github.com/user-attachments/assets/dc695e72-daa5-446e-9974-26c5d8d0d0b5)
+  ![Some of my work (1)](https://github.com/user-attachments/assets/ada7e11f-fc4d-4405-aa21-bac22b3c3462)
 
   ![Copy of Your paragraph text (1)](https://github.com/user-attachments/assets/dd2b035f-1896-430d-b0f8-4cc50a05b754)
   
-  ![Your paragraph text (14)](https://github.com/user-attachments/assets/2915c7e2-9a27-4838-bf62-b3e606811cdc)
+  ![Your paragraph text (15)](https://github.com/user-attachments/assets/5d825b17-ad65-4f66-b573-0ebf20705b5e)
+
+  ![Copy of Some of my work](https://github.com/user-attachments/assets/f8925142-9f6b-4a64-a7c2-b2e8774616ce)
 
 
 
