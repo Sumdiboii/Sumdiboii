@@ -43,9 +43,10 @@
     <img src="https://img.shields.io/badge/-LeetCode-780ea4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   
-  <a href="mailto:sumedh.pimplikar22@pccoepune.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-780ea4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumedh.pimplikar22@pccoepune.org" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Gmail-780ea4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
   
   <a href="https://twitter.com/@SAP89506300" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-780ea4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
