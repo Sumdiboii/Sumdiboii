@@ -26,9 +26,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumdiboii&show_icons=true&count_private=true&theme=radical&text_color=780ea4&icon_color=780ea4" alt="Sumdiboii's GitHub Stats" /> &nbsp;&nbsp;&nbsp;
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumdiboii&show_icons=true&count_private=true&theme=radical&text_color=780ea4&icon_color=780ea4" alt="Sumdiboii's GitHub Stats" />
 </p>
+
 
 <br>
 
