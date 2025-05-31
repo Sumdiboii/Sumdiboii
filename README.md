@@ -38,22 +38,28 @@
 
 
 <p align="center">
-  <a href="https://leetcode.com/sumedhiscodinglol/">
+  
+  <a href="https://leetcode.com/sumedhiscodinglol/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-780ea4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="mailto:sumedh.pimplikar22@pccoepune.org">
+  
+  <a href="mailto:sumedh.pimplikar22@pccoepune.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-780ea4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/@SAP89506300">
+  
+  <a href="https://twitter.com/@SAP89506300" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-780ea4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/sumedh-pimplikar">
+  
+  <a href="https://linkedin.com/in/sumedh-pimplikar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-780ea4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/919922391450">
+  
+  <a href="https://wa.me/919922391450" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-WhatsApp-780ea4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
+
 
 
 
