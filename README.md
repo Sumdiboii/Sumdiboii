@@ -19,6 +19,9 @@
   
   ![Your paragraph text (15)](https://github.com/user-attachments/assets/5d825b17-ad65-4f66-b573-0ebf20705b5e)
 
+  ![Copy of Your paragraph text (3)](https://github.com/user-attachments/assets/1678e2bb-d2b0-43a0-ae6c-3b4e695a0877)
+
+
   ![Copy of Some of my work](https://github.com/user-attachments/assets/f8925142-9f6b-4a64-a7c2-b2e8774616ce)
 
 </p>
