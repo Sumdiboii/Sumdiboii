@@ -17,10 +17,12 @@
   <img src="read-me-images/Copy of Hello there ! (2).png" alt="Hello There 2 Copy" />
   
   <img src="read-me-images/Some of my work (1).png" alt="Some of My Work 1" />
-  
+
   <img src="read-me-images/Copy of Your paragraph text (1).png" alt="Your Paragraph Text 1 Copy" />
   
   <img src="read-me-images/Your paragraph text (15).png" alt="Your Paragraph Text 15" />
+
+  <img src="read-me-images/cloudcannon-banner.png" alt="CloudCannon Banner" />
   
   <img src="read-me-images/Copy of Your paragraph text (3).png" alt="Your Paragraph Text 3 Copy" />
   
