@@ -36,13 +36,14 @@
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Some Featured Projects 🗿</h2>
 
 <table align="center">
   <thead>
     <tr>
       <th>Icon</th>
       <th>Project Name</th>
+      <th>Description</th>
       <th>Live Demo</th>
       <th>GitHub Repo</th>
     </tr>
@@ -50,30 +51,88 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32"/>
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
       </td>
-      <td><strong>CloudCannon</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td><strong>s</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/emoji/48/diary.png" width="32"/>
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
       </td>
-      <td><strong>Dear Diary</strong><br/><sub>MERN diary app</sub></td>
+      <td><strong>u</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
+      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/emoji/48/diary.png" width="32" alt="Dear Diary Icon"/>
+      </td>
+      <td><strong>m</strong><br/><sub>MERN diary app</sub></td>
+      <td>Personal diary app to record, edit, and manage your daily stories.</td>
       <td><a href="https://dear-diary.vercel.app" target="_blank">📖 Try It</a></td>
       <td><a href="https://github.com/sumdiboii/dear-diary" target="_blank">📘 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/voice-presentation.png" width="32"/>
+        <img src="https://img.icons8.com/color/48/voice-presentation.png" width="32" alt="SafeHer Icon"/>
       </td>
-      <td><strong>SafeHer</strong><br/><sub>AI voice-call protector</sub></td>
+      <td><strong>e</strong><br/><sub>AI voice-call protector</sub></td>
+      <td>Realistic AI voice app that mimics phone calls for personal safety in taxis.</td>
       <td>🚧 Coming Soon</td>
       <td><a href="https://github.com/sumdiboii/safeher" target="_blank">🔧 Repo</a></td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+      </td>
+      <td><strong>d</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
+      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+      </td>
+      <td><strong>h</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
+      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+      </td>
+      <td><strong>p</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
+      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+      </td>
+      <td><strong>i</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
+      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+      </td>
+      <td><strong>m</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
+      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+    </tr>
   </tbody>
 </table>
+
 
 
 <br>
