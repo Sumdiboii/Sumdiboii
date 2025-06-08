@@ -188,11 +188,11 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
        <td width="500">
         <p align= "justify">
           <br>
-          Satellite Image Compression is a web app that intelligently reduces the size of high-resolution satellite images using DCT and Huffman encoding, while preserving visual quality. It enables faster storage, smoother transmission, and efficient handling of large-scale geospatial data through simple, user-friendly compression tools.<br><br>
+          SafeHer. is a simple, no-login mobile app that simulates realistic AI phone calls using 4 dynamic voices — designed to help users, especially women, feel safer during solo commutes. With just a Start button and voice switch, it offers quick protection through presence — built using React Native for speed and ease.<br><br>
       </p>
       </td>
        <td><p align="center">IN WORKS</p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
   </tbody>
 </table>
