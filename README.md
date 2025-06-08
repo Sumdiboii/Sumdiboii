@@ -34,6 +34,46 @@
   
 </p>
 
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Icon</th>
+      <th>Project Name</th>
+      <th>Live Demo</th>
+      <th>GitHub Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32"/>
+      </td>
+      <td><strong>CloudCannon</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
+      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/emoji/48/diary.png" width="32"/>
+      </td>
+      <td><strong>Dear Diary</strong><br/><sub>MERN diary app</sub></td>
+      <td><a href="https://dear-diary.vercel.app" target="_blank">📖 Try It</a></td>
+      <td><a href="https://github.com/sumdiboii/dear-diary" target="_blank">📘 Repo</a></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/voice-presentation.png" width="32"/>
+      </td>
+      <td><strong>SafeHer</strong><br/><sub>AI voice-call protector</sub></td>
+      <td>🚧 Coming Soon</td>
+      <td><a href="https://github.com/sumdiboii/safeher" target="_blank">🔧 Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <br>
