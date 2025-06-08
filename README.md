@@ -59,11 +59,11 @@
       <td width="500">
         <p align= "justify">
           <br>
-          🚀 CloudCannon is a sleek, minimalist cloud storage app built with React, CSS, Supabase, and Vite. Enjoy secure two-step verification, easy file upload, rename, download (including ZIP), and sharing. Laboratory Mode lets you compress, enhance, and edit images or text files—always as safe copies. Clean, responsive UI. Pro-level features. 🔐⚙️<br><br>
+          CloudCannon is a sleek, minimalist cloud storage app built with React, CSS, Supabase, and Vite. Enjoy secure two-step verification, easy file upload, rename, download (including ZIP), and sharing. Laboratory Mode lets you compress, enhance, and edit images or text files—always as safe copies. Clean, responsive UI. Pro-level features.<br><br>
       </p>
       </td>
-      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
-      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+      <td><p align="center"><a href="https://cloud-cannon-space-app.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -77,8 +77,8 @@
           <br>A React-based Pokédex featuring a library of 120 Pokémon with 3D Blender models, fluid animations, and a creative, responsive UI. Includes gym data, voice and audio integration, and Pokémon detection using a TensorFlow CNN with 96% accuracy. Combines real-time PokéAPI data with locally stored JSON for enhanced performance and custom content.<br><br>
       </p>
       </td>
-      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
-      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+       <td><p align="center"><a href="https://pokedex-gamma-two.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -93,8 +93,8 @@
           A fully responsive, interactive Minesweeper app built with React, Node.js, Express, and MongoDB. Features multiple game modes, customizable flags, in-game music, achievements, and seamless game data storage for a smooth user experience. Sleek UI and animations make it great for casual and competitive players. Multiplayer coming soon !!🗿<br><br>
       </p>
       </td>
-      <td><a href="https://dear-diary.vercel.app" target="_blank">📖 Try It</a></td>
-      <td><a href="https://github.com/sumdiboii/dear-diary" target="_blank">📘 Repo</a></td>
+       <td><p align="center"><a href="https://better-minesweeper-react.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -106,11 +106,11 @@
      <td width="500">
         <p align= "justify">
           <br>
-          A fully responsive, interactive Minesweeper app built with React, Node.js, Express, and MongoDB. Features multiple game modes, customizable flags, in-game music, achievements, and seamless game data storage for a smooth user experience. Sleek UI and animations make it great for casual and competitive players. Multiplayer coming soon !!🗿<br><br>
+         A secure, sleek tool to keep your digital life organized and safe. Combining robust password management with intuitive file handling, it features a clean, user-friendly interface. Built for security, efficiency, and ease of use, it lets you store and access sensitive data effortlessly—perfect for anyone who values privacy and smooth workflow.<br><br>
       </p>
       </td>
-      <td>🚧 Coming Soon</td>
-      <td><a href="https://github.com/sumdiboii/safeher" target="_blank">🔧 Repo</a></td>
+      <td><p align="center"><a href="https://password-manager-cybersecurity.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -125,8 +125,8 @@
           A handcrafted portfolio built with React and vanilla CSS to express not just my skills but my soul. Every section, color, animation, and transition feels personal — telling my story like code that speaks. Creative, clean, and full of heart, this site is my digital identity — crafted with love to reflect me, inspire others, and showcase my passion.<br><br>
       </p>
       </td>
-      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
-      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+      <td><p align="center"><a href="https://portfolio-website-c16e.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -141,8 +141,8 @@
 PillowTalk is a secure, full-stack digital diary, meticulously crafted with the MERN stack. It offers a private space for your thoughts, leveraging sentiment analysis based on moods for tailored prompts. With robust 2-step verification, your entries are kept exceptionally private. It's a powerfully personal tool, helping you grow with each entry!<br><br>
       </p>
       </td>
-      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
-      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+       <td><p align="center"><a href="https://pillowtalk-dear-diary-web-app-git-se-08ba82-sumdiboiis-projects.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -157,8 +157,8 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
           Built by a skilled team of six with React.js and CSS, this responsive website showcases event details, schedules, and media for Anantya Techfest 2025. MongoDB manages large file storage, ensuring smooth media delivery. The site is optimized for all devices, delivering an engaging, user-friendly experience embodying the techfest’s innovative spirit<br><br>
       </p>
       </td>
-      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
-      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+       <td><p align="center"><a href="https://anantya-2-k25.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -173,8 +173,8 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
           Satellite Image Compression is a web app that intelligently reduces the size of high-resolution satellite images using DCT and Huffman encoding, while preserving visual quality. It enables faster storage, smoother transmission, and efficient handling of large-scale geospatial data through simple, user-friendly compression tools.<br><br>
         </p>
       </td>
-      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
-      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+       <td><p align="center"><a href="https://satellite-image-compression.streamlit.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -189,8 +189,8 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
           Satellite Image Compression is a web app that intelligently reduces the size of high-resolution satellite images using DCT and Huffman encoding, while preserving visual quality. It enables faster storage, smoother transmission, and efficient handling of large-scale geospatial data through simple, user-friendly compression tools.<br><br>
       </p>
       </td>
-      <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
-      <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
+       <td><p align="center">IN WORKS</p></td>
+     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
     </tr>
   </tbody>
 </table>
