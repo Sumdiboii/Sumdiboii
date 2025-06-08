@@ -38,6 +38,8 @@
 
 <h2 align="center">🚀 Some Featured Projects 🗿</h2>
 
+<br>
+
 <table align="center">
   <thead>
     <tr>
