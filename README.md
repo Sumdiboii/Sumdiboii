@@ -51,16 +51,16 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+        <img src="https://img.icons8.com/fluency/48/cloud.png" width="42" alt="CloudCannon Icon"/>
       </td>
-      <td><strong>s</strong><br/><sub>Minimalist cloud storage</sub></td>
+      <td><strong>CloudCannon</strong><br/><sub>Minimalist cloud storage</sub></td>
       <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/pikachu.png" width="42" alt="CloudCannon Icon"/>
       </td>
       <td><strong>u</strong><br/><sub>Minimalist cloud storage</sub></td>
       <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/emoji/48/diary.png" width="32" alt="Dear Diary Icon"/>
+        <img src="read-me-images/table-images/nuclear-bomb (1).png" width="42" alt="Dear Diary Icon"/>
       </td>
       <td><strong>m</strong><br/><sub>MERN diary app</sub></td>
       <td>Personal diary app to record, edit, and manage your daily stories.</td>
@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/voice-presentation.png" width="32" alt="SafeHer Icon"/>
+        <img src="read-me-images/table-images/shield.png" width="42" alt="SafeHer Icon"/>
       </td>
       <td><strong>e</strong><br/><sub>AI voice-call protector</sub></td>
       <td>Realistic AI voice app that mimics phone calls for personal safety in taxis.</td>
@@ -87,7 +87,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/curriculum-vitae.png" width="42" alt="CloudCannon Icon"/>
       </td>
       <td><strong>d</strong><br/><sub>Minimalist cloud storage</sub></td>
       <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
@@ -96,7 +96,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/notebook.png" width="42" alt="CloudCannon Icon"/>
       </td>
       <td><strong>h</strong><br/><sub>Minimalist cloud storage</sub></td>
       <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
@@ -105,7 +105,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/calendar.png" width="42" alt="CloudCannon Icon"/>
       </td>
       <td><strong>p</strong><br/><sub>Minimalist cloud storage</sub></td>
       <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
@@ -114,7 +114,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/satellite.png" width="42" alt="CloudCannon Icon"/>
       </td>
       <td><strong>i</strong><br/><sub>Minimalist cloud storage</sub></td>
       <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="32" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/protection.png" width="42" alt="CloudCannon Icon"/>
       </td>
       <td><strong>m</strong><br/><sub>Minimalist cloud storage</sub></td>
       <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
