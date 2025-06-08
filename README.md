@@ -63,7 +63,7 @@
       </p>
       </td>
       <td><p align="center"><a href="https://cloud-cannon-space-app.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/cloud-cannon-space-app-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -78,7 +78,7 @@
       </p>
       </td>
        <td><p align="center"><a href="https://pokedex-gamma-two.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/PokeDex-Project" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -94,7 +94,7 @@
       </p>
       </td>
        <td><p align="center"><a href="https://better-minesweeper-react.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/better-minesweeper-react-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -110,7 +110,7 @@
       </p>
       </td>
       <td><p align="center"><a href="https://password-manager-cybersecurity.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/password-manager-cybersecurity-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -126,7 +126,7 @@
       </p>
       </td>
       <td><p align="center"><a href="https://portfolio-website-c16e.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/portfolio-website-project" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -142,7 +142,7 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
       </p>
       </td>
        <td><p align="center"><a href="https://pillowtalk-dear-diary-web-app-git-se-08ba82-sumdiboiis-projects.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/pillowtalk-dear-diary-web-app-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -158,7 +158,7 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
       </p>
       </td>
        <td><p align="center"><a href="https://anantya-2-k25.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/Anantya-2k25-Techfest-website-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -174,7 +174,7 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
         </p>
       </td>
        <td><p align="center"><a href="https://satellite-image-compression.streamlit.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
       <td align="center">
@@ -190,7 +190,7 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
       </p>
       </td>
        <td><p align="center">IN WORKS</p></td>
-     <td><p align="center"><a href="https://cloudcannon.vercel.app" target="_blank">REPOSITORY</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
     </tr>
   </tbody>
 </table>
