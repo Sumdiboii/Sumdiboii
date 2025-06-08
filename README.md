@@ -56,95 +56,139 @@
      <td align="center">
         <img src="read-me-images/table-images/project-text-logos/cloudcannon-text-logo.png" width="92" alt="CloudCannon Icon"/>
       </td>
-      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+          🚀 CloudCannon is a sleek, minimalist cloud storage app built with React, CSS, Supabase, and Vite. Enjoy secure two-step verification, easy file upload, rename, download (including ZIP), and sharing. Laboratory Mode lets you compress, enhance, and edit images or text files—always as safe copies. Clean, responsive UI. Pro-level features. 🔐⚙️<br><br>
+      </p>
+      </td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/pikachu.png" width="42" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/pikachu.png" width="42" alt="PokeDex Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/pokedex-title-text.png" width="92" alt="CloudCannon Icon"/<br/>
+        <img src="read-me-images/table-images/project-text-logos/pokedex-title-text.png" width="92" alt="PokeDex Logo"/<br/>
       </td>
-      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td width="500">
+        <p align= "justify">
+          <br>A React-based Pokédex featuring a library of 120 Pokémon with 3D Blender models, fluid animations, and a creative, responsive UI. Includes gym data, voice and audio integration, and Pokémon detection using a TensorFlow CNN with 96% accuracy. Combines real-time PokéAPI data with locally stored JSON for enhanced performance and custom content.<br><br>
+      </p>
+      </td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/nuclear-bomb (1).png" width="42" alt="Dear Diary Icon"/>
+        <img src="read-me-images/table-images/nuclear-bomb (1).png" width="42" alt="Better Minesweeper Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/minesweeper-text.png" width="92" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/project-text-logos/minesweeper-text.png" width="92" alt="Better Minesweeper Logo"/>
       </td>
-      <td>Personal diary app to record, edit, and manage your daily stories.</td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+          A fully responsive, interactive Minesweeper app built with React, Node.js, Express, and MongoDB. Features multiple game modes, customizable flags, in-game music, achievements, and seamless game data storage for a smooth user experience. Sleek UI and animations make it great for casual and competitive players. Multiplayer coming soon !!🗿<br><br>
+      </p>
+      </td>
       <td><a href="https://dear-diary.vercel.app" target="_blank">📖 Try It</a></td>
       <td><a href="https://github.com/sumdiboii/dear-diary" target="_blank">📘 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/shield.png" width="42" alt="SafeHer Icon"/>
+        <img src="read-me-images/table-images/shield.png" width="42" alt="MyVault Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/password-manager-text-icon.png" width="92" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/project-text-logos/password-manager-text-icon.png" width="92" alt="MyVault Logo"/>
       </td>
-      <td>Realistic AI voice app that mimics phone calls for personal safety in taxis.</td>
+     <td width="500">
+        <p align= "justify">
+          <br>
+          A fully responsive, interactive Minesweeper app built with React, Node.js, Express, and MongoDB. Features multiple game modes, customizable flags, in-game music, achievements, and seamless game data storage for a smooth user experience. Sleek UI and animations make it great for casual and competitive players. Multiplayer coming soon !!🗿<br><br>
+      </p>
+      </td>
       <td>🚧 Coming Soon</td>
       <td><a href="https://github.com/sumdiboii/safeher" target="_blank">🔧 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/curriculum-vitae.png" width="42" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/curriculum-vitae.png" width="42" alt="Portfolio Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/portfolio-text.png" width="92" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/project-text-logos/portfolio-text.png" width="92" alt="Portfolio Logo"/>
       </td>
-      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td width="500">
+        <p align= "justify"> 
+          <br>
+          A handcrafted portfolio built with React and vanilla CSS to express not just my skills but my soul. Every section, color, animation, and transition feels personal — telling my story like code that speaks. Creative, clean, and full of heart, this site is my digital identity — crafted with love to reflect me, inspire others, and showcase my passion.<br><br>
+      </p>
+      </td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/notebook.png" width="42" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/notebook.png" width="42" alt="PillowTalk Icon"/>
       </td>
      <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/pillowtalk-removebg-preview.png" width="92" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/project-text-logos/pillowtalk-removebg-preview.png" width="92" alt="PillowTalk Logo"/>
       </td>
-      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+PillowTalk is a secure, full-stack digital diary, meticulously crafted with the MERN stack. It offers a private space for your thoughts, leveraging sentiment analysis based on moods for tailored prompts. With robust 2-step verification, your entries are kept exceptionally private. It's a powerfully personal tool, helping you grow with each entry!<br><br>
+      </p>
+      </td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/calendar.png" width="42" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/calendar.png" width="42" alt="Anantya 2K25 Icon"/>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="42" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/project-text-logos/anantya-text.png" width="92" alt="Anantya 2K25 Logo"/>
       </td>
-      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+          Built by a skilled team of six with React.js and CSS, this responsive website showcases event details, schedules, and media for Anantya Techfest 2025. MongoDB manages large file storage, ensuring smooth media delivery. The site is optimized for all devices, delivering an engaging, user-friendly experience embodying the techfest’s innovative spirit<br><br>
+      </p>
+      </td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/satellite.png" width="42" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/satellite.png" width="42" alt="SatCom Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/satcom.png" width="92" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/project-text-logos/satcom.png" width="92" alt="SatCom Logo"/>
       </td>
-      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+          Satellite Image Compression is a web app that intelligently reduces the size of high-resolution satellite images using DCT and Huffman encoding, while preserving visual quality. It enables faster storage, smoother transmission, and efficient handling of large-scale geospatial data through simple, user-friendly compression tools.<br><br>
+        </p>
+      </td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/protection.png" width="42" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/protection.png" width="42" alt="SafeHer Icon"/>
       </td>
      <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/safeher-text.png" width="92" alt="CloudCannon Icon"/>
+        <img src="read-me-images/table-images/project-text-logos/safeher-text.png" width="92" alt="SafeHer Logo"/>
       </td>
-      <td>Secure, sleek cloud storage app with React and Supabase backend.</td>
+       <td width="500">
+        <p align= "justify">
+          <br>
+          Satellite Image Compression is a web app that intelligently reduces the size of high-resolution satellite images using DCT and Huffman encoding, while preserving visual quality. It enables faster storage, smoother transmission, and efficient handling of large-scale geospatial data through simple, user-friendly compression tools.<br><br>
+      </p>
+      </td>
       <td><a href="https://cloudcannon.vercel.app" target="_blank">🌐 Launch</a></td>
       <td><a href="https://github.com/sumdiboii/cloudcannon" target="_blank">📦 Repo</a></td>
     </tr>
