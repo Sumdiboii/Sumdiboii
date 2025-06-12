@@ -110,7 +110,7 @@
      <td width="500">
         <p align= "justify">
           <br>
-         A secure, sleek tool to keep your digital life organized and safe. Combining robust password management with intuitive file handling, it features a clean, user-friendly interface. Built for security, efficiency, and ease of use, it lets you store and access sensitive data effortlessly—perfect for anyone who values privacy and smooth workflow.<br><br>
+         A React + Supabase password manager focused on security: client-side AES encryption, user-specific PIN and 2FA gating, phishing detection, Row Level Security, lockout after failed attempts, and strict backend CORS—demonstrating modern, layered cybersecurity techniques for safe password storage and management.<br><br>
       </p>
       </td>
       <td><p align="center"><a href="https://password-manager-cybersecurity.vercel.app/" target="_blank">VIEW</a></p></td>
