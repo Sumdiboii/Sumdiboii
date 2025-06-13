@@ -3,12 +3,6 @@
 <p align="center">
   
   <img src="read-me-images/Hello there ! (1).png" alt="Hello There 1" />
- 
-</p>
-
-
-
-<p align="center">
   
   <img src="read-me-images/final-scroller-border-ezgif.com-optimize.gif" alt="Final Scroller Border GIF" />
   
