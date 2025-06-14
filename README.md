@@ -1,5 +1,4 @@
 
-
 <p align="center">
   
   <img src="read-me-images/Hello there ! (1).png" alt="Hello There 1" />
@@ -196,9 +195,13 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumdiboii&show_icons=true&count_private=true&theme=radical&text_color=780ea4&icon_color=780ea4" alt="Sumdiboii's GitHub Stats" /> &nbsp;&nbsp;&nbsp;
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=radical&hide_border=true" alt="GitHub Stats Graph">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumdiboii&theme=dark" alt="GitHub Streak Stats"/>
+</p>
+
 
 <br>
 
