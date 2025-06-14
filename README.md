@@ -1,4 +1,3 @@
-
 <p align="center">
   
   <img src="read-me-images/Hello there ! (1).png" alt="Hello There 1" />
@@ -199,7 +198,7 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumdiboii&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumdiboii&theme=violet-punch" alt="GitHub Streak Stats"/>
 </p>
 
 
