@@ -194,13 +194,10 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=radical&hide_border=true" alt="GitHub Stats Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=tokyonight&hide_border=true" alt="GitHub Stats Graph">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=violet_punch&hide_border=true" alt="GitHub Stats Graph">
-</p>
-
+<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumdiboii&theme=violet-punch" alt="GitHub Streak Stats"/>
