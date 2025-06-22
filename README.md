@@ -188,6 +188,39 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
        <td><p align="center">IN WORKS</p></td>
      <td><p align="center"><a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
+     <tr>
+      <td align="center"> 
+        <img src="read-me-images/table-images/video-call.png" width="42" alt="CamConnect Icon"/>
+      </td>
+     <td align="center">
+        <img src="read-me-images/table-images/project-text-logos/camconn.png" width="102" alt="CamConnect Logo"/>
+      </td>
+       <td width="500">
+        <p align= "justify">
+          <br>
+          CamConnect is a WebRTC-based web app enabling anonymous one-on-one video calls with integrated real-time chat. It leverages Socket.IO for signaling and peer-to-peer media streaming, offering a seamless, low-latency communication experience without requiring user login.<br><br>
+      </p>
+      </td>
+       <td><p align="center">IN WORKS</p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/camconnect-video-calling-app-public" target="_blank">REPOSITORY</a></p></td>
+    </tr>
+     <tr> 
+      <td align="center">
+        <img src="read-me-images/table-images/compile.png" width="42" alt="Refactor Icon"/>
+      </td>
+     <td align="center">
+        <img src="read-me-images/table-images/project-text-logos/refactor.png" width="92" alt="Refactor Logo"/>
+      </td>
+       <td width="500">
+        <p align= "justify">
+          <br>
+          Refactor is a multi-language smart compiler supporting over 10 programming languages with seamless code execution, storage, and sharing. Its standout feature? Instantly generate a .txt file of your code and link it via a custom TinyURL — making your snippets accessible, shareable, and executable from anywhere.<br><br>
+      </p>
+      </td>
+       <td><p align="center">IN WORKS</p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/refactor-smart-compiler-public" target="_blank">REPOSITORY</a></p></td>
+    </tr>
+    </tr>
   </tbody>
 </table>
 
