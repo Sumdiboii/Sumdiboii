@@ -251,10 +251,17 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
 <br>
 
 <p align="center">
+
+   <img src="https://komarev.com/ghpvc/?username=Sumdiboii&style=for-the-badge&color=780ea4" alt="Profile Views" />
+   
   <a href="https://leetcode.com/sumedhiscodinglol/">
     <img src="https://img.shields.io/badge/-LeetCode-780ea4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  
+
+  <a href="https://www.codechef.com/users/sumdiboii">
+    <img src="https://img.shields.io/badge/-CodeChef-780ea4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+    
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumedh.pimplikar22@pccoepune.org" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gmail-780ea4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
@@ -271,6 +278,6 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
     <img src="https://img.shields.io/badge/-WhatsApp-780ea4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
-   <img src="https://komarev.com/ghpvc/?username=Sumdiboii&style=for-the-badge&color=780ea4" alt="Profile Views" />
+  
    
 </p>
