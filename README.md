@@ -174,6 +174,56 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
     </tr>
     <tr>
       <td align="center">
+        <img src="read-me-images/table-images/ai-technology.png" width="42" alt="FreeCrafter Icon"/>
+      </td>
+      <td align="center">
+        <img src="read-me-images/table-images/project-text-logos/freecrafter.png" width="132" alt="FreeCrafter Logo"/>
+      </td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+          About
+FreeCrafter is a responsive web app for generating images with six free AI models, featuring real-time analytics and smart prompt suggestions. Developed for our Business Intelligence and Computer Vision course under Dr. Ganesh Kadam by a team of three.
+          <br><br>
+        </p>
+      </td>
+       <td><p align="center"><a href="https://advanced-diffusion-models-for-image.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/Advanced-Diffusion-Models-for-Image-Generation-public" target="_blank">REPOSITORY</a></p></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="read-me-images/table-images/graduation-hat.png" width="42" alt="Scholar Search Icon"/>
+      </td>
+      <td align="center">
+        <img src="read-me-images/table-images/project-text-logos/ScholarSearch.png" width="132" alt="Scholar Search Logo"/>
+      </td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+         Full-stack FastAPI + React app to search, filter, and analyze papers from OpenAlex & Semantic Scholar. Features charts, bookmarks, CSV export, and advanced filters for streamlined academic research.<br><br>
+        </p>
+      </td>
+       <td><p align="center"><a href="https://web-crawler-openalex-semantic-resea.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/web-crawler-openalex-semantic-research-papers-public" target="_blank">REPOSITORY</a></p></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="read-me-images/table-images/research-paper.png" width="42" alt="Research Icon"/>
+      </td>
+      <td align="center">
+        <img src="read-me-images/table-images/project-text-logos/PaperScholar.png" width="132" alt="Paper Scholar Logo"/>
+      </td>
+      <td width="500">
+        <p align= "justify">
+          <br>
+          This full-stack web application was developed as a summer internship project and gifted to the Computer Engineering Department. It lists all real-time research papers published by every faculty member, using SerpAPI to fetch data from Google Scholar. Features include Excel download, bookmarks, dark mode, and a responsive user interface.<br><br>
+        </p>
+      </td>
+       <td><p align="center"><a href="https://serp-api-web-crawler-summer-interns.vercel.app/" target="_blank">VIEW</a></p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/serp-api-web-crawler-summer-internship-pccoe-public" target="_blank">REPOSITORY</a></p></td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="read-me-images/table-images/protection.png" width="42" alt="SafeHer Icon"/>
       </td>
      <td align="center">
