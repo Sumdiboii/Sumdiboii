@@ -172,12 +172,28 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
        <td><p align="center"><a href="https://satellite-image-compression.streamlit.app/" target="_blank">VIEW</a></p></td>
      <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
     </tr>
+     <tr> 
+      <td align="center">
+        <img src="read-me-images/table-images/skillyug-logo.png" width="42" alt="Skillyug Logo Icon"/>
+      </td>
+     <td align="center">
+        <img src="read-me-images/table-images/skillyug.png" width="102" alt="Skillyug Logo"/>
+      </td>
+       <td width="500">
+        <p align= "justify">
+          <br>
+         Sponsored by Skillyug Education Academy, this platform helps students prepare for NMMS, SAT, and Math with interactive modules, adaptive assessments, and mini-games. Designed to support 50,000+ students at peak usage, with scalable performance for future growth.<br><br>
+      </p>
+      </td>
+       <td><p align="center">IN WORKS</p></td>
+     <td><p align="center"><a href="https://github.com/Sumdiboii/skillyug-exam-portal-btech-project-public" target="_blank">REPOSITORY</a></p></td>
+    </tr>
     <tr>
       <td align="center">
         <img src="read-me-images/table-images/ai-technology.png" width="42" alt="FreeCrafter Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/freecrafter.png" width="132" alt="FreeCrafter Logo"/>
+        <img src="read-me-images/table-images/project-text-logos/freecrafter.png" width="102" alt="FreeCrafter Logo"/>
       </td>
       <td width="500">
         <p align= "justify">
@@ -195,7 +211,7 @@ FreeCrafter is a responsive web app for generating images with six free AI model
         <img src="read-me-images/table-images/graduation-hat.png" width="42" alt="Scholar Search Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/ScholarSearch.png" width="132" alt="Scholar Search Logo"/>
+        <img src="read-me-images/table-images/project-text-logos/ScholarSearch.png" width="102" alt="Scholar Search Logo"/>
       </td>
       <td width="500">
         <p align= "justify">
@@ -211,7 +227,7 @@ FreeCrafter is a responsive web app for generating images with six free AI model
         <img src="read-me-images/table-images/research-paper.png" width="42" alt="Research Icon"/>
       </td>
       <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/PaperScholar.png" width="132" alt="Paper Scholar Logo"/>
+        <img src="read-me-images/table-images/project-text-logos/PaperScholar.png" width="102" alt="Paper Scholar Logo"/>
       </td>
       <td width="500">
         <p align= "justify">
