@@ -292,6 +292,9 @@ FreeCrafter is a responsive web app for generating images with six free AI model
 
 <br>
 
+
+
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=tokyonight&hide_border=true" alt="GitHub Stats Graph">
 </p>
@@ -312,6 +315,14 @@ FreeCrafter is a responsive web app for generating images with six free AI model
 
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/100/780ea4/diamond.png" width="80" alt="Diamond Icon" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sumedhpimplikar">
+    <img src="https://img.shields.io/badge/Buy%20Me%20an%20Apple-white?style=for-the-badge&logo=apple&logoColor=e63946&labelColor=white&color=white" alt="Buy Me an Apple" height="60">
+  </a>
 </p>
 
 <br>
