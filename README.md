@@ -17,7 +17,7 @@
   <tbody>
   <!-- 1. New Entry Placeholder -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="" /></td>
     <td><p align="center"><a href="#" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="#" target="_blank">REPOSITORY</a></p></td>
@@ -25,7 +25,7 @@
 
   <!-- 2. CloudCannon -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/46b96feb635329484d3ec2eacd56fe149e8eff0a/new-readme-images/cloudcannon-table-text.png" /></td>
     <td><p align="center"><a href="https://cloud-cannon-space-app.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/cloud-cannon-space-app-public" target="_blank">REPO</a></p></td>
@@ -33,7 +33,7 @@
 
   <!-- 3. Scholar Search -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/scholarsearch-table-text.png" /></td>
     <td><p align="center"><a href="https://web-crawler-openalex-semantic-resea.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/web-crawler-openalex-semantic-research-papers-public" target="_blank">REPOSITORY</a></p></td>
@@ -41,7 +41,7 @@
 
   <!-- 4. Blank Placeholder -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="" /></td>
     <td><p align="center">N/A</p></td>
     <td><p align="center">N/A</p></td>
@@ -49,7 +49,7 @@
 
   <!-- 5. Minesweeper -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/minesweeper-table-text.png" /></td>
     <td><p align="center"><a href="https://better-minesweeper-react.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/better-minesweeper-react-public" target="_blank">REPOSITORY</a></p></td>
@@ -57,7 +57,7 @@
 
   <!-- 6. Pokedex -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/pokedex-table-text.png" /></td>
     <td><p align="center"><a href="https://pokedex-gamma-two.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/PokeDex-Project" target="_blank">REPOSITORY</a></p></td>
@@ -65,7 +65,7 @@
 
   <!-- 7. PillowTalk -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/pillowtalk-table-text.png" /></td>
     <td><p align="center"><a href="https://pillowtalk-dear-diary-web-app-git-se-08ba82-sumdiboiis-projects.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/pillowtalk-dear-diary-web-app-public" target="_blank">REPOSITORY</a></p></td>
@@ -73,7 +73,7 @@
 
   <!-- 8. MyVault -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/myvault-table-text.png" /></td>
     <td><p align="center"><a href="https://password-manager-cybersecurity.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/password-manager-cybersecurity-public" target="_blank">REPOSITORY</a></p></td>
@@ -81,7 +81,7 @@
 
   <!-- 9. Anantya -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
   <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/anantya-table-text.png" /></td>
     <td><p align="center"><a href="https://anantya-2-k25.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/Anantya-2k25-Techfest-website-public" target="_blank">REPOSITORY</a></p></td>
@@ -89,7 +89,7 @@
 
   <!-- 10. Paper Scholar -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/cbd0808abad3e29ded2c8cf10b10efae17291175/new-readme-images/paper-scholar-table-text.png" /></td>
     <td><p align="center"><a href="https://serp-api-web-crawler-summer-interns.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/serp-api-web-crawler-summer-internship-pccoe-public" target="_blank">REPOSITORY</a></p></td>
@@ -97,7 +97,7 @@
 
   <!-- 11. SatCom -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/satcom-table-text.png" /></td>
     <td><p align="center"><a href="https://satellite-image-compression.streamlit.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
@@ -105,23 +105,23 @@
 
   <!-- 12. Portfolio -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/old-portfolio-table-text.png" /></td>
     <td><p align="center"><a href="https://portfolio-website-c16e.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/portfolio-website-project" target="_blank">REPOSITORY</a></p></td>
   </tr>
 
-  <!-- 14. FreeCrafter -->
+  <!-- 13. FreeCrafter -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/cbd0808abad3e29ded2c8cf10b10efae17291175/new-readme-images/freecrafter-table-text.png" /></td>
     <td><p align="center"><a href="https://advanced-diffusion-models-for-image.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/Advanced-Diffusion-Models-for-Image-Generation-public" target="_blank">REPOSITORY</a></p></td>
   </tr>
 
-  <!-- 15. SafeHer -->
+  <!-- 14. SafeHer -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/0393ea3a1891b7a130ffbf56bcbcb360b2db9941/new-readme-images/headblock.png"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
         <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/517cad1a1bbf26d0ce8e91522c8a3e9c79c96b4c/new-readme-images/header.png" /><img src="" /></td>
     <td><p align="center">IN WORKS</p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank">REPOSITORY</a></p></td>
