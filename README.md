@@ -15,211 +15,125 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Project Name</th>
+      <th>Project </th>
       <th>Description</th>
-      <th>Live Demo</th>
-      <th>GitHub Repo</th>
+      <th>Demo</th>
+      <th>Repo</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/cloudcannon-text-logo.png" width="92" alt="CloudCannon Icon"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-          CloudCannon is a sleek, minimalist cloud storage app built with React, CSS, Supabase, and Vite. Enjoy secure two-step verification, easy file upload, rename, download (including ZIP), and sharing. Laboratory Mode lets you compress, enhance, and edit images or text files—always as safe copies. Clean, responsive UI. Pro-level features.<br><br>
-      </p>
-      </td>
-      <td><p align="center"><a href="https://cloud-cannon-space-app.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/cloud-cannon-space-app-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/pokedex-title-text.png" width="92" alt="PokeDex Logo"/<br/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>A React-based Pokédex featuring a library of 120 Pokémon with 3D Blender models, fluid animations, and a creative, responsive UI. Includes gym data, voice and audio integration, and Pokémon detection using a TensorFlow CNN with 96% accuracy. Combines real-time PokéAPI data with locally stored JSON for enhanced performance and custom content.<br><br>
-      </p>
-      </td>
-       <td><p align="center"><a href="https://pokedex-gamma-two.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/PokeDex-Project" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/minesweeper-text.png" width="92" alt="Better Minesweeper Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-          A fully responsive, interactive Minesweeper app built with React, Node.js, Express, and MongoDB. Features multiple game modes, customizable flags, in-game music, achievements, and seamless game data storage for a smooth user experience. Sleek UI and animations make it great for casual and competitive players. Multiplayer coming soon !!🗿<br><br>
-      </p>
-      </td>
-       <td><p align="center"><a href="https://better-minesweeper-react.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/better-minesweeper-react-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/password-manager-text-icon.png" width="92" alt="MyVault Logo"/>
-      </td>
-     <td width="500">
-        <p align= "justify">
-          <br>
-         A React + Supabase password manager focused on security: client-side AES encryption, user-specific PIN and 2FA gating, phishing detection, Row Level Security, lockout after failed attempts, and strict backend CORS—demonstrating modern, layered cybersecurity techniques for safe password storage and management. ( supabase backend currently paused to accomodate another project )<br><br>
-      </p>
-      </td>
-      <td><p align="center"><a href="https://password-manager-cybersecurity.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/password-manager-cybersecurity-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/portfolio-text.png" width="92" alt="Portfolio Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify"> 
-          <br>
-          A handcrafted portfolio built with React and vanilla CSS to express not just my skills but my soul. Every section, color, animation, and transition feels personal — telling my story like code that speaks. Creative, clean, and full of heart, this site is my digital identity — crafted with love to reflect me, inspire others, and showcase my passion.<br><br>
-      </p>
-      </td>
-      <td><p align="center"><a href="https://portfolio-website-c16e.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/portfolio-website-project" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/pillowtalk-removebg-preview.png" width="92" alt="PillowTalk Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-PillowTalk is a secure, full-stack digital diary, meticulously crafted with the MERN stack. It offers a private space for your thoughts, leveraging sentiment analysis based on moods for tailored prompts. With robust 2-step verification, your entries are kept exceptionally private. It's a powerfully personal tool, helping you grow with each entry!<br><br>
-      </p>
-      </td>
-       <td><p align="center"><a href="https://pillowtalk-dear-diary-web-app-git-se-08ba82-sumdiboiis-projects.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/pillowtalk-dear-diary-web-app-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/anantya-text.png" width="92" alt="Anantya 2K25 Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-          Built by a skilled team of six with React.js and CSS, this responsive website showcases event details, schedules, and media for Anantya Techfest 2025. MongoDB manages large file storage, ensuring smooth media delivery. The site is optimized for all devices, delivering an engaging, user-friendly experience embodying the techfest’s innovative spirit<br><br>
-      </p>
-      </td>
-       <td><p align="center"><a href="https://anantya-2-k25.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/Anantya-2k25-Techfest-website-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/satcom.png" width="92" alt="SatCom Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-          Satellite Image Compression is a web app that intelligently reduces the size of high-resolution satellite images using DCT and Huffman encoding, while preserving visual quality. It enables faster storage, smoother transmission, and efficient handling of large-scale geospatial data through simple, user-friendly compression tools.<br><br>
-        </p>
-      </td>
-       <td><p align="center"><a href="https://satellite-image-compression.streamlit.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-     <tr> 
-     <td align="center">
-        <img src="read-me-images/table-images/skillyug.png" width="102" alt="Skillyug Logo"/>
-      </td>
-       <td width="500">
-        <p align= "justify">
-          <br>
-         Sponsored by Skillyug Education Academy, this platform helps students prepare for NMMS, SAT, and Math with interactive modules, adaptive assessments, and mini-games. Designed to support 50,000+ students at peak usage, with scalable performance for future growth.<br><br>
-      </p>
-      </td>
-       <td><p align="center">IN WORKS</p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/skillyug-exam-portal-btech-project-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/freecrafter.png" width="102" alt="FreeCrafter Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-          About
-FreeCrafter is a responsive web app for generating images with six free AI models, featuring real-time analytics and smart prompt suggestions. Developed for our Business Intelligence and Computer Vision course under Dr. Ganesh Kadam by a team of three.
-          <br><br>
-        </p>
-      </td>
-       <td><p align="center"><a href="https://advanced-diffusion-models-for-image.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/Advanced-Diffusion-Models-for-Image-Generation-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/ScholarSearch.png" width="102" alt="Scholar Search Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-         Full-stack FastAPI + React app to search, filter, and analyze papers from OpenAlex & Semantic Scholar. Features charts, bookmarks, CSV export, and advanced filters for streamlined academic research.<br><br>
-        </p>
-      </td>
-       <td><p align="center"><a href="https://web-crawler-openalex-semantic-resea.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/web-crawler-openalex-semantic-research-papers-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/PaperScholar.png" width="102" alt="Paper Scholar Logo"/>
-      </td>
-      <td width="500">
-        <p align= "justify">
-          <br>
-          This full-stack web application was developed as a summer internship project and gifted to the Computer Engineering Department. It lists all real-time research papers published by every faculty member, using SerpAPI to fetch data from Google Scholar. Features include Excel download, bookmarks, dark mode, and a responsive user interface.<br><br>
-        </p>
-      </td>
-       <td><p align="center"><a href="https://serp-api-web-crawler-summer-interns.vercel.app/" target="_blank">VIEW</a></p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/serp-api-web-crawler-summer-internship-pccoe-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/safeher-text.png" width="92" alt="SafeHer Logo"/>
-      </td>
-       <td width="500">
-        <p align= "justify">
-          <br>
-          SafeHer. is a simple, no-login mobile app that simulates realistic AI phone calls using 4 dynamic voices — designed to help users, especially women, feel safer during solo commutes. With just a Start button and voice switch, it offers quick protection through presence — built using React Native for speed and ease.<br><br>
-      </p>
-      </td>
-       <td><p align="center">IN WORKS</p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-     <tr>
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/camconn.png" width="102" alt="CamConnect Logo"/>
-      </td>
-       <td width="500">
-        <p align= "justify">
-          <br>
-          CamConnect is a WebRTC-based web app enabling anonymous one-on-one video calls with integrated real-time chat. It leverages Socket.IO for signaling and peer-to-peer media streaming, offering a seamless, low-latency communication experience without requiring user login.<br><br>
-      </p>
-      </td>
-       <td><p align="center">IN WORKS</p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/camconnect-video-calling-app-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-     <tr> 
-     <td align="center">
-        <img src="read-me-images/table-images/project-text-logos/refactor.png" width="92" alt="Refactor Logo"/>
-      </td>
-       <td width="500">
-        <p align= "justify">
-          <br>
-          Refactor is a multi-language smart compiler supporting over 10 programming languages with seamless code execution, storage, and sharing. Its standout feature? Instantly generate a .txt file of your code and link it via a custom TinyURL — making your snippets accessible, shareable, and executable from anywhere.<br><br>
-      </p>
-      </td>
-       <td><p align="center">IN WORKS</p></td>
-     <td><p align="center"><a href="https://github.com/Sumdiboii/refactor-smart-compiler-public" target="_blank">REPOSITORY</a></p></td>
-    </tr>
-    </tr>
-  </tbody>
+  <!-- 1. New Entry Placeholder -->
+  <tr>
+    <td align="center"><img src="URL_TO_YOUR_LOGO" width="92" alt="New Project"/></td>
+    <td width="700"><img src="" /></td>
+    <td><p align="center"><a href="#" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="#" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 2. CloudCannon -->
+  <tr>
+    <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/02d6e6b47bc8a088f8cbe4cb52f38cba7cac0091/new-readme-images/mock.png" width="400" height = "1000" alt="CloudCannon Icon"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/46b96feb635329484d3ec2eacd56fe149e8eff0a/new-readme-images/cloudcannon-table-text.png" /></td>
+    <td><p align="center"><a href="https://cloud-cannon-space-app.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/cloud-cannon-space-app-public" target="_blank">REPO</a></p></td>
+  </tr>
+
+  <!-- 3. Scholar Search -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/ScholarSearch.png" width="102" alt="Scholar Search Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/scholarsearch-table-text.png" /></td>
+    <td><p align="center"><a href="https://web-crawler-openalex-semantic-resea.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/web-crawler-openalex-semantic-research-papers-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 4. Blank Placeholder -->
+  <tr>
+    <td align="center"><img src="URL_TO_YOUR_LOGO" width="92" alt="Blank Entry"/></td>
+   <td width="700"><img src="" /></td>
+    <td><p align="center">N/A</p></td>
+    <td><p align="center">N/A</p></td>
+  </tr>
+
+  <!-- 5. Minesweeper -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/minesweeper-text.png" width="92" alt="Better Minesweeper Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/minesweeper-table-text.png" /></td>
+    <td><p align="center"><a href="https://better-minesweeper-react.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/better-minesweeper-react-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 6. Pokedex -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/pokedex-title-text.png" width="92" alt="PokeDex Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/pokedex-table-text.png" /></td>
+    <td><p align="center"><a href="https://pokedex-gamma-two.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/PokeDex-Project" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 7. PillowTalk -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/pillowtalk-removebg-preview.png" width="92" alt="PillowTalk Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/pillowtalk-table-text.png" /></td>
+    <td><p align="center"><a href="https://pillowtalk-dear-diary-web-app-git-se-08ba82-sumdiboiis-projects.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/pillowtalk-dear-diary-web-app-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 8. MyVault -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/password-manager-text-icon.png" width="92" alt="MyVault Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/myvault-table-text.png" /></td>
+    <td><p align="center"><a href="https://password-manager-cybersecurity.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/password-manager-cybersecurity-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 9. Anantya -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/anantya-text.png" width="92" alt="Anantya 2K25 Logo"/></td>
+  <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/anantya-table-text.png" /></td>
+    <td><p align="center"><a href="https://anantya-2-k25.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/Anantya-2k25-Techfest-website-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 10. Paper Scholar -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/PaperScholar.png" width="102" alt="Paper Scholar Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/cbd0808abad3e29ded2c8cf10b10efae17291175/new-readme-images/paper-scholar-table-text.png" /></td>
+    <td><p align="center"><a href="https://serp-api-web-crawler-summer-interns.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/serp-api-web-crawler-summer-internship-pccoe-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 11. SatCom -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/satcom.png" width="92" alt="SatCom Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/satcom-table-text.png" /></td>
+    <td><p align="center"><a href="https://satellite-image-compression.streamlit.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 12. Portfolio -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/portfolio-text.png" width="92" alt="Portfolio Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/f982ad4c5d3ea4cd5db1368d264fe9bbc0941599/new-readme-images/old-portfolio-table-text.png" /></td>
+    <td><p align="center"><a href="https://portfolio-website-c16e.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/portfolio-website-project" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 14. FreeCrafter -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/freecrafter.png" width="102" alt="FreeCrafter Logo"/></td>
+    <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/cbd0808abad3e29ded2c8cf10b10efae17291175/new-readme-images/freecrafter-table-text.png" /></td>
+    <td><p align="center"><a href="https://advanced-diffusion-models-for-image.vercel.app/" target="_blank">VIEW</a></p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/Advanced-Diffusion-Models-for-Image-Generation-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+
+  <!-- 15. SafeHer -->
+  <tr>
+    <td align="center"><img src="read-me-images/table-images/project-text-logos/safeher-text.png" width="92" alt="SafeHer Logo"/></td>
+        <td width="700"><img src="" /></td>
+    <td><p align="center">IN WORKS</p></td>
+    <td><p align="center"><a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank">REPOSITORY</a></p></td>
+  </tr>
+</tbody>
 </table>
 
 <br>
