@@ -17,15 +17,15 @@
   <tbody>
   <!-- 1. New Entry Placeholder -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="100"  /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/codeblock-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/861b01175dc56263c47a71a85fa19530296534f9/new-readme-images/codeblock-table-text.png" /></td>
     <td><p align="center"><a href="#" target="_blank">VIEW</a></p></td>
-    <td><p align="center"><a href="#" target="_blank">REPO</a></p></td>
+    <td><p align="center"><a href="#" target="_blank">REPOSITORY</a></p></td>
   </tr>
 
   <!-- 2. CloudCannon -->
   <tr>
-     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
+     <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="100" /></td>
     <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/6f757b54d0294ca12bd3071fc1b46d11e432297b/new-readme-images/cloudcannon-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/46b96feb635329484d3ec2eacd56fe149e8eff0a/new-readme-images/cloudcannon-table-text.png" /></td>
     <td><p align="center"><a href="https://cloud-cannon-space-app.vercel.app/" target="_blank">VIEW</a></p></td>
     <td><p align="center"><a href="https://github.com/Sumdiboii/cloud-cannon-space-app-public" target="_blank">REPO</a></p></td>
@@ -134,66 +134,3 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=tokyonight&hide_border=true" alt="GitHub Stats Graph">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumdiboii&theme=violet-punch" alt="GitHub Streak Stats"/>
-</p>
-
-
-<br>
-
-<!-- TITLE with Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=780ea4&center=true&vCenter=true&width=500&lines=Polishing+Ideas+into+Code.;Every+line+a+step+closer+to+perfection.;Turning+complexity+into+clarity.;Let+the+code+speak+for+itself." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/780ea4/diamond.png" width="80" alt="Diamond Icon" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sumedhpimplikar">
-    <img src="https://img.shields.io/badge/Buy%20Me%20an%20Apple-white?style=for-the-badge&logo=apple&logoColor=e63946&labelColor=white&color=white" alt="Buy Me an Apple" height="60">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-
-   <img src="https://komarev.com/ghpvc/?username=Sumdiboii&style=for-the-badge&color=780ea4" alt="Profile Views" />
-   
-  <a href="https://leetcode.com/sumedhiscodinglol/">
-    <img src="https://img.shields.io/badge/-LeetCode-780ea4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-
-  <a href="https://www.codechef.com/users/sumdiboii">
-    <img src="https://img.shields.io/badge/-CodeChef-780ea4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-    
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumedh.pimplikar22@pccoepune.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Gmail-780ea4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-  <a href="https://twitter.com/@SAP89506300">
-    <img src="https://img.shields.io/badge/-Twitter-780ea4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  
-  <a href="https://linkedin.com/in/sumedh-pimplikar">
-    <img src="https://img.shields.io/badge/-LinkedIn-780ea4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://wa.me/919922391450">
-    <img src="https://img.shields.io/badge/-WhatsApp-780ea4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-
-  
-   
-</p>
