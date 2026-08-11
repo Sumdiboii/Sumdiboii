@@ -2,42 +2,19 @@
   
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/44868b321710b0ce4256664d0a54352bacae878a/new-readme-images/github-banner-1.png" />
   
-  <img src="read-me-images/final-scroller-border-ezgif.com-optimize.gif" alt="Final Scroller Border GIF" />
-  
-  <img src="read-me-images/aboutme.png" alt="About Me Section" />
-  
-  <img src="read-me-images/Copy of Hello there ! (2).png" alt="Hello There 2 Copy" />
-  
-  <img src="read-me-images/Some of my work (1).png" alt="Some of My Work 1" />
-
-  <img src="read-me-images/Copy of Your paragraph text (1).png" alt="Your Paragraph Text 1 Copy" />
-  
-  <img src="read-me-images/Your paragraph text (15).png" alt="Your Paragraph Text 15" />
-
-  <img src="read-me-images/Copy of Copy of Your paragraph text (1).png" alt="CloudCannon Banner" />
-
-   <img src="read-me-images/password-repo-banner.png" alt="MyVault Banner" />
-  
-  <img src="read-me-images/Copy of Your paragraph text (3).png" alt="Your Paragraph Text 3 Copy" />
-  
-  <img src="read-me-images/Copy of Copy of Copy of Your paragraph text.png" alt="Your Paragraph Text Copy Copy Copy" />
-  
-  <img src="read-me-images/Copy of Copy of Your paragraph text.png" alt="Your Paragraph Text Copy Copy" />
-  
-  <img src="read-me-images/Copy of Some of my work.png" alt="Some of My Work Copy" />
+ 
   
 </p>
 
 <br>
 
-<h2 align="center">🚀 Some Featured Projects 🗿</h2>
+
 
 <br>
 
 <table align="center">
   <thead>
     <tr>
-      <th>Icon</th>
       <th>Project Name</th>
       <th>Description</th>
       <th>Live Demo</th>
@@ -46,9 +23,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/cloud.png" width="42" alt="CloudCannon Icon"/>
-      </td>
      <td align="center">
         <img src="read-me-images/table-images/project-text-logos/cloudcannon-text-logo.png" width="92" alt="CloudCannon Icon"/>
       </td>
@@ -62,10 +36,7 @@
      <td><p align="center"><a href="https://github.com/Sumdiboii/cloud-cannon-space-app-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/pikachu.png" width="42" alt="PokeDex Icon"/>
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="read-me-images/table-images/project-text-logos/pokedex-title-text.png" width="92" alt="PokeDex Logo"/<br/>
       </td>
       <td width="500">
@@ -77,10 +48,7 @@
      <td><p align="center"><a href="https://github.com/Sumdiboii/PokeDex-Project" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/nuclear-bomb (1).png" width="42" alt="Better Minesweeper Icon"/>
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="read-me-images/table-images/project-text-logos/minesweeper-text.png" width="92" alt="Better Minesweeper Logo"/>
       </td>
       <td width="500">
@@ -94,9 +62,6 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="read-me-images/table-images/shield.png" width="42" alt="MyVault Icon"/>
-      </td>
-      <td align="center">
         <img src="read-me-images/table-images/project-text-logos/password-manager-text-icon.png" width="92" alt="MyVault Logo"/>
       </td>
      <td width="500">
@@ -109,10 +74,7 @@
      <td><p align="center"><a href="https://github.com/Sumdiboii/password-manager-cybersecurity-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/curriculum-vitae.png" width="42" alt="Portfolio Icon"/>
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="read-me-images/table-images/project-text-logos/portfolio-text.png" width="92" alt="Portfolio Logo"/>
       </td>
       <td width="500">
@@ -125,9 +87,6 @@
      <td><p align="center"><a href="https://github.com/Sumdiboii/portfolio-website-project" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/notebook.png" width="42" alt="PillowTalk Icon"/>
-      </td>
      <td align="center">
         <img src="read-me-images/table-images/project-text-logos/pillowtalk-removebg-preview.png" width="92" alt="PillowTalk Logo"/>
       </td>
@@ -141,10 +100,7 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
      <td><p align="center"><a href="https://github.com/Sumdiboii/pillowtalk-dear-diary-web-app-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/calendar.png" width="42" alt="Anantya 2K25 Icon"/>
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="read-me-images/table-images/project-text-logos/anantya-text.png" width="92" alt="Anantya 2K25 Logo"/>
       </td>
       <td width="500">
@@ -157,10 +113,7 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
      <td><p align="center"><a href="https://github.com/Sumdiboii/Anantya-2k25-Techfest-website-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/satellite.png" width="42" alt="SatCom Icon"/>
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="read-me-images/table-images/project-text-logos/satcom.png" width="92" alt="SatCom Logo"/>
       </td>
       <td width="500">
@@ -173,9 +126,6 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
      <td><p align="center"><a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank">REPOSITORY</a></p></td>
     </tr>
      <tr> 
-      <td align="center">
-        <img src="read-me-images/table-images/skillyug-logo.png" width="42" alt="Skillyug Logo Icon"/>
-      </td>
      <td align="center">
         <img src="read-me-images/table-images/skillyug.png" width="102" alt="Skillyug Logo"/>
       </td>
@@ -189,9 +139,6 @@ PillowTalk is a secure, full-stack digital diary, meticulously crafted with the 
      <td><p align="center"><a href="https://github.com/Sumdiboii/skillyug-exam-portal-btech-project-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/ai-technology.png" width="42" alt="FreeCrafter Icon"/>
-      </td>
       <td align="center">
         <img src="read-me-images/table-images/project-text-logos/freecrafter.png" width="102" alt="FreeCrafter Logo"/>
       </td>
@@ -207,10 +154,7 @@ FreeCrafter is a responsive web app for generating images with six free AI model
      <td><p align="center"><a href="https://github.com/Sumdiboii/Advanced-Diffusion-Models-for-Image-Generation-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/graduation-hat.png" width="42" alt="Scholar Search Icon"/>
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="read-me-images/table-images/project-text-logos/ScholarSearch.png" width="102" alt="Scholar Search Logo"/>
       </td>
       <td width="500">
@@ -223,10 +167,7 @@ FreeCrafter is a responsive web app for generating images with six free AI model
      <td><p align="center"><a href="https://github.com/Sumdiboii/web-crawler-openalex-semantic-research-papers-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/research-paper.png" width="42" alt="Research Icon"/>
-      </td>
-      <td align="center">
+     <td align="center">
         <img src="read-me-images/table-images/project-text-logos/PaperScholar.png" width="102" alt="Paper Scholar Logo"/>
       </td>
       <td width="500">
@@ -239,9 +180,6 @@ FreeCrafter is a responsive web app for generating images with six free AI model
      <td><p align="center"><a href="https://github.com/Sumdiboii/serp-api-web-crawler-summer-internship-pccoe-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="read-me-images/table-images/protection.png" width="42" alt="SafeHer Icon"/>
-      </td>
      <td align="center">
         <img src="read-me-images/table-images/project-text-logos/safeher-text.png" width="92" alt="SafeHer Logo"/>
       </td>
@@ -255,9 +193,6 @@ FreeCrafter is a responsive web app for generating images with six free AI model
      <td><p align="center"><a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
      <tr>
-      <td align="center"> 
-        <img src="read-me-images/table-images/video-call.png" width="42" alt="CamConnect Icon"/>
-      </td>
      <td align="center">
         <img src="read-me-images/table-images/project-text-logos/camconn.png" width="102" alt="CamConnect Logo"/>
       </td>
@@ -271,9 +206,6 @@ FreeCrafter is a responsive web app for generating images with six free AI model
      <td><p align="center"><a href="https://github.com/Sumdiboii/camconnect-video-calling-app-public" target="_blank">REPOSITORY</a></p></td>
     </tr>
      <tr> 
-      <td align="center">
-        <img src="read-me-images/table-images/compile.png" width="42" alt="Refactor Icon"/>
-      </td>
      <td align="center">
         <img src="read-me-images/table-images/project-text-logos/refactor.png" width="92" alt="Refactor Logo"/>
       </td>
