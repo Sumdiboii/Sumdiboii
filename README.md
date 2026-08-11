@@ -2,7 +2,31 @@
   <img src="https://github.com/Sumdiboii/Sumdiboii/raw/44868b321710b0ce4256664d0a54352bacae878a/new-readme-images/github-banner-1.png" />
 </p>
 
-<br><br>
+<br>
+
+<p align="center">
+  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/introboxtemp.png" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/quickaccessboxtemp.png" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/skillsboxtemp.png" />
+</p>
+
+<br> 
+
+<p align="center">
+  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/projectheaderboxtemp.png" />
+</p>
+
+<br>
 
 <table align="center">
   <tbody>
@@ -238,6 +262,58 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sumdiboii/Sumdiboii/main/new-readme-images/comic.jpg" style="width: 100%; max-width: 100%;" alt="Manga comic strip" />
 </p>
+
+<br>
+
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff&utcOffset=5.5"/>
+</div>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
+</div>
+
+<!-- ============================================================ -->
+<!--                STREAK STATS & TOP LANGUAGES                  -->
+<!-- ============================================================ -->
+
+<table align="center">
+  <tr>
+    <!-- GitHub Streak -->
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Sumdiboii&theme=dark&background=0d1117&border_radius=10&ring=8B0000&fire=8B0000&currStreakNum=ffffff&currStreakLabel=8B0000&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&stroke=8B0000&border=8B0000" alt="GitHub Streak"/>
+    </td>
+    <!-- Top Languages -->
+    <!-- <td align="center">
+      <a href="https://github.com/Sumdiboii">
+        <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sumdiboii&langs_count=8&layout=compact&theme=dark&bg_color=0d1117&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000&border_radius=10" alt="Top Languages"/>
+      </a>
+    </td> -->
+  </tr>
+</table>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
+</div>
+
+<!-- ============================================================ -->
+<!--                    ACTIVITY GRAPH                            -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumdiboii&theme=react-dark&bg_color=0d1117&color=ffffff&line=8B0000&point=8B0000&area_color=8B0000&area=true&hide_border=false&border_color=8B0000" alt="Contribution Activity Graph"/>
+</p>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
+</div>
 <br>
 
 
