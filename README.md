@@ -17,7 +17,7 @@
   <tbody>
   <!-- 1. New Entry Placeholder -->
   <tr>
-  <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="100" /></td>
+  <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/codeblock-header.png" width="100" /></td>
   <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/codeblock-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/raw/861b01175dc56263c47a71a85fa19530296534f9/new-readme-images/codeblock-table-text.png" /></td>
   <td><p align="center"><a href="#" target="_blank">VIEW</a></p></td>
   <td><p align="center"><a href="#" target="_blank">REPOSITORY</a></p></td>
