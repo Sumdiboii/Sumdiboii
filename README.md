@@ -42,7 +42,7 @@
   <!-- 4. Blank Placeholder -->
   <tr>
      <td align="center"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg"  /></td>
-   <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/newportfolio-header.png" /><img src="" /></td>
+   <td width="700"><img src="https://github.com/Sumdiboii/Sumdiboii/blob/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/newportfolio-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/80ee75d8c5155c3398bdfb0dd39c5c9c4789f0c1/new-readme-images/newportfolio-table-text.png" /></td>
     <td><p align="center">N/A</p></td>
     <td><p align="center">N/A</p></td>
   </tr>
