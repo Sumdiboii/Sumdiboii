@@ -234,3 +234,13 @@
 </table>
 
 <br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumdiboii/Sumdiboii/main/new-readme-images/comic.jpg" style="width: 100%; max-width: 100%;" alt="Manga comic strip" />
+</p>
+<br>
+
+
+<p align="center">
+  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/44868b321710b0ce4256664d0a54352bacae878a/new-readme-images/github-banner-1.png" />
+</p>
