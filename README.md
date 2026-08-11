@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img src="read-me-images/Hello there ! (1).png" alt="Hello There 1" />
+  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/44868b321710b0ce4256664d0a54352bacae878a/new-readme-images/github-banner-1.png" />
   
   <img src="read-me-images/final-scroller-border-ezgif.com-optimize.gif" alt="Final Scroller Border GIF" />
   
