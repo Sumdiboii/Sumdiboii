@@ -8,25 +8,25 @@
   <img src="https://github.com/Sumdiboii/Sumdiboii/raw/ff6f4d0ac327e8a7d33e3446ceb841765301a7ac/new-readme-images/introboxfinal.png" />
 </p>
 
-<br>
+<!-- <br> -->
 
 <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/quickaccessboxtemp.png" />
 </p>
 
-<br>
+<!-- <br> -->
 
 <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/skillsboxtemp.png" />
 </p>
 
-<br> 
+<!-- <br>  -->
 
 <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/raw/bd9b82c489739ee13d7ccf6040902ff97966940a/new-readme-images/projectheaderbox.png" />
 </p>
 
-<br>
+<!-- <br> -->
 
 <table align="center">
   <tbody>
