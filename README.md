@@ -329,5 +329,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/E5B80B/diamond.png" width="80" alt="Yellow Gold Diamond Icon" />
+  <img src="https://img.icons8.com/ios-filled/100/D5A543/diamond.png" width="80" alt="Yellow Gold Diamond Icon" />
 </p>
