@@ -5,7 +5,7 @@
 <!-- <br> -->
 
 <p align="center">
-  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/743b60a3229c97b37725f60f143e925d8af9c932/new-readme-images/introbox.png" />
+  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/ff6f4d0ac327e8a7d33e3446ceb841765301a7ac/new-readme-images/introboxfinal.png" />
 </p>
 
 <br>
