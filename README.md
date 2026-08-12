@@ -11,7 +11,7 @@
 <!-- <br> -->
 
 <p align="center">
-  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/quickaccessboxtemp.png" />
+  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/0953b034db9e8c98ab34d5600aa2680ef5dd1a66/new-readme-images/quickaccessbox.png" />
 </p>
 
 <!-- <br> -->
@@ -112,8 +112,13 @@
   <img src="https://img.shields.io/badge/Product_Ownership-6b0927?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical_Documentation-6b0927?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Optimization-6b0927?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Operating_Systems-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows-6b0927?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-6b0927?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-6b0927?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOS-6b0927?style=for-the-badge" />
 </p>
-
 <!-- <br>  -->
 
 <p align="center">
