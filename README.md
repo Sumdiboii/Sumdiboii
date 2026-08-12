@@ -23,7 +23,7 @@
 <br> 
 
 <p align="center">
-  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/projectheaderboxtemp.png" />
+  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/bd9b82c489739ee13d7ccf6040902ff97966940a/new-readme-images/projectheaderbox.png" />
 </p>
 
 <br>
