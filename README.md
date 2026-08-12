@@ -2,10 +2,10 @@
   <img src="https://github.com/Sumdiboii/Sumdiboii/raw/44868b321710b0ce4256664d0a54352bacae878a/new-readme-images/github-banner-1.png" />
 </p>
 
-<br>
+<!-- <br> -->
 
 <p align="center">
-  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/b778a4b8eade5f81f5f6c915bce17439921a488f/new-readme-images/introboxtemp.png" />
+  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/743b60a3229c97b37725f60f143e925d8af9c932/new-readme-images/introbox.png" />
 </p>
 
 <br>
