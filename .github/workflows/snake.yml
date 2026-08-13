@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#6b0927&color_dots=#ebedf0,#f3dce3,#c791a3,#9c4763,#6b0927
+            dist/github-contribution-grid-snake.svg?color_snake=#D4AF37&color_dots=#ebedf0,#f5e5ad,#e3c878,#d4af37,#947a26
             
       # FIX 2: Bumped ghaction-github-pages to v4 to clear the Node warning
       - uses: crazy-max/ghaction-github-pages@v4
