@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs automatically every 12 hours
+    - cron: "0 */12 * * *" 
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # This configures the crimson snake and matching red contribution dots
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#6b0927&color_dots=#ebedf0,#f3dce3,#c791a3,#9c4763,#6b0927
+            
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
