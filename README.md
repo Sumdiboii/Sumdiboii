@@ -35,9 +35,9 @@
 <br>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/5696e8ba3ed6124063b1514621d31be16070de65/new-readme-images/skillsboxtemp.png" />
-</p>
+</p> -->
 
 
 
