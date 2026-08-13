@@ -2,24 +2,28 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: "0 */12 * * *" 
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch:
+
+# FIX 1: Grants the action permission to push the SVG to your repository
+permissions:
+  contents: write 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # FIX 2: Bumped checkout to v4 to clear the Node warning
+      - uses: actions/checkout@v4 
       
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # This configures the crimson snake and matching red contribution dots
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#6b0927&color_dots=#ebedf0,#f3dce3,#c791a3,#9c4763,#6b0927
             
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # FIX 2: Bumped ghaction-github-pages to v4 to clear the Node warning
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
