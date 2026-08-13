@@ -17,6 +17,13 @@
 <!-- <br> -->
 
 <p align="center">
+  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/5696e8ba3ed6124063b1514621d31be16070de65/new-readme-images/skillsboxtemp.png" />
+</p>
+
+
+
+
+<p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/raw/7a2d5aea685152ede4df3e9d94865d8b28608dea/new-readme-images/skillsheaderbox.png" />
   <br /><br />
   
