@@ -17,6 +17,12 @@
 <!-- <br> -->
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Sumdiboii/Sumdiboii/output/github-contribution-grid-snake.svg" alt="Commit Snake" />
+</p>
+
+<!-- <br> -->
+
+<p align="center">
   <a href="https://x.com/sumedhpimplikar" target="_blank"><img src="https://img.shields.io/badge/Twitter-6b0927?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6b0927?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6b0927?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
@@ -25,6 +31,9 @@
   <a href="https://www.credly.com/users/sumedh-pimplikar.114636cd" target="_blank"><img src="https://img.shields.io/badge/Credly-6b0927?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="https://medium.com/@sumedh-pimplikar" target="_blank"><img src="https://img.shields.io/badge/Medium-6b0927?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
+
+<br>
+
 
 <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/5696e8ba3ed6124063b1514621d31be16070de65/new-readme-images/skillsboxtemp.png" />
