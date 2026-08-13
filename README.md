@@ -20,7 +20,7 @@
   <a href="https://x.com/sumedhpimplikar" target="_blank"><img src="https://img.shields.io/badge/Twitter-6b0927?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6b0927?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6b0927?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://docs.google.com/document/d/1IdfYwDGtaz0bVFcXU2RypyG1JNUQN3WO17pW7Bk1SbA/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-D4AF37?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume" /></a>
+  <a href="https://docs.google.com/document/d/1IdfYwDGtaz0bVFcXU2RypyG1JNUQN3WO17pW7Bk1SbA/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-6b0927?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://github.com/Sumdiboii/my-certificates" target="_blank"><img src="https://img.shields.io/badge/Certs-6b0927?style=for-the-badge" alt="Certifications" /></a>
   <a href="https://www.credly.com/users/sumedh-pimplikar.114636cd" target="_blank"><img src="https://img.shields.io/badge/Credly-6b0927?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="https://medium.com/@sumedh-pimplikar" target="_blank"><img src="https://img.shields.io/badge/Medium-6b0927?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -164,7 +164,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/codeblock-compiler-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -180,7 +180,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/cloud-cannon-space-app-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -196,7 +196,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/web-crawler-openalex-semantic-research-papers-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -208,11 +208,11 @@
         <img src="https://github.com/Sumdiboii/Sumdiboii/raw/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/newportfolio-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/raw/80ee75d8c5155c3398bdfb0dd39c5c9c4789f0c1/new-readme-images/newportfolio-table-text.png" />
         <br>
         <p align="center">
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Live Demo"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Live Demo"></a>
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/Sumdiboii" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -228,7 +228,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/better-minesweeper-react-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -244,7 +244,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/PokeDex-Project" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -260,7 +260,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/pillowtalk-dear-diary-web-app-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -276,7 +276,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/password-manager-cybersecurity-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -292,7 +292,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/Anantya-2k25-Techfest-website-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -308,7 +308,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/serp-api-web-crawler-summer-internship-pccoe-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -324,7 +324,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/Satellite_Image_Compression_by_DCT_Huffman" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -340,7 +340,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/portfolio-website-project" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -356,7 +356,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/Advanced-Diffusion-Models-for-Image-Generation-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
@@ -372,7 +372,7 @@
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
-          <a href="https://sumdiboiis-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
+          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
