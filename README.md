@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/raw/44868b321710b0ce4256664d0a54352bacae878a/new-readme-images/github-banner-1.png" />
 </p>
@@ -33,6 +34,17 @@
 </p>
 
 <br>
+
+
+<p align="center">
+  <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank">
+    <!-- The Hero LeetCode Card -->
+    <img src="https://leetcard.jacoblin.cool/sumedhiscodinglol?font=Fira%20Code&ext=contest&colors=6b0927,6b0927,D4AF37,ffffff,D4AF37,D4AF37,D4AF37" alt="LeetCode Contest Stats" height="355" />
+  </a>
+  
+  <!-- Your Custom GIF -->
+ 
+</p>
 
 
 <!-- <p align="center">
@@ -159,6 +171,8 @@
 </p>
 
 <!-- <br> -->
+
+
 
 <table align="center">
   <tbody>
