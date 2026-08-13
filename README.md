@@ -17,6 +17,16 @@
 <!-- <br> -->
 
 <p align="center">
+  <a href="YOUR_TWITTER_URL" target="_blank"><img src="https://img.shields.io/badge/Twitter(X)-6b0927?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="YOUR_LEETCODE_URL" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6b0927?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6b0927?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Resume-D4AF37?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume" /></a>
+  <a href="YOUR_CERTS_URL" target="_blank"><img src="https://img.shields.io/badge/Certifications-6b0927?style=for-the-badge" alt="Certifications" /></a>
+  <a href="YOUR_CREDLY_URL" target="_blank"><img src="https://img.shields.io/badge/Credly-6b0927?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="YOUR_MEDIUM_URL" target="_blank"><img src="https://img.shields.io/badge/Medium-6b0927?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
+
+<p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/5696e8ba3ed6124063b1514621d31be16070de65/new-readme-images/skillsboxtemp.png" />
 </p>
 
@@ -125,7 +135,14 @@
   <img src="https://img.shields.io/badge/macOS-6b0927?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-6b0927?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/DOS-6b0927?style=for-the-badge" />
+
+   <br>
+
+
+
 </p>
+
+
 <!-- <br>  -->
 
 <p align="center">
@@ -436,4 +453,11 @@
 
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/100/D5A543/diamond.png" width="80" alt="Yellow Gold Diamond Icon" />
+</p>
+
+<p align="center">
+  <!-- Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Sumdiboii&color=6b0927&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+ 
 </p>
