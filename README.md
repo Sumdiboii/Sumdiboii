@@ -36,15 +36,7 @@
 <br>
 
 
-<p align="center">
-  <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank">
-    <!-- The Hero LeetCode Card -->
-    <img src="https://leetcard.jacoblin.cool/sumedhiscodinglol?font=Fira%20Code&ext=contest&colors=6b0927,6b0927,D4AF37,ffffff,D4AF37,D4AF37,D4AF37" alt="LeetCode Contest Stats" height="355" />
-  </a>
-  
-  <!-- Your Custom GIF -->
- 
-</p>
+
 
 
 <!-- <p align="center">
@@ -423,6 +415,16 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
 </div>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank">
+    <!-- The Hero LeetCode Card -->
+    <img src="https://leetcard.jacoblin.cool/sumedhiscodinglol?font=Fira%20Code&ext=contest&colors=6b0927,6b0927,D4AF37,ffffff,D4AF37,D4AF37,D4AF37" alt="LeetCode Contest Stats" height="355" />
+  </a>
+  
+  <!-- Your Custom GIF -->
+ 
+</p>
 
 <!-- ============================================================ -->
 <!--                STREAK STATS & TOP LANGUAGES                  -->
