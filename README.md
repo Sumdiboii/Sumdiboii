@@ -35,7 +35,12 @@
 
 <br>
 
-
+<p align="center">
+  <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank">
+    <!-- The Hero LeetCode Card -->
+    <img src="https://leetcard.jacoblin.cool/sumedhiscodinglol?font=Fira%20Code&ext=contest&colors=6b0927,6b0927,D4AF37,ffffff,D4AF37,D4AF37,D4AF37" alt="LeetCode Contest Stats" height="355" />
+  </a>
+</p>
 
 
 
@@ -156,6 +161,8 @@
 </p>
 
 
+
+
 <!-- <br>  -->
 
 <p align="center">
@@ -175,7 +182,7 @@
         <img src="https://github.com/Sumdiboii/Sumdiboii/raw/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/codeblock-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/raw/861b01175dc56263c47a71a85fa19530296534f9/new-readme-images/codeblock-table-text.png" />
         <br>
         <p align="center">
-          <a href="https://github.com/Sumdiboii/codeblock-compiler-public" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Live Demo"></a>
+          <a href="https://codeblock-sumo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Live Demo"></a>
           &nbsp;&nbsp;
           <a href="https://github.com/Sumdiboii/codeblock-compiler-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
@@ -223,9 +230,9 @@
         <img src="https://github.com/Sumdiboii/Sumdiboii/raw/561db4525dc9d6346e79a6d26d982ac782d68d8a/new-readme-images/newportfolio-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/raw/80ee75d8c5155c3398bdfb0dd39c5c9c4789f0c1/new-readme-images/newportfolio-table-text.png" />
         <br>
         <p align="center">
-          <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Live Demo"></a>
+          <a href="https://sumedh-pimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Live Demo"></a>
           &nbsp;&nbsp;
-          <a href="https://github.com/Sumdiboii/Sumdiboii" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
+          <a href="https://sumedh-pimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
           <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
@@ -383,9 +390,9 @@
         <img src="https://github.com/Sumdiboii/Sumdiboii/raw/861b01175dc56263c47a71a85fa19530296534f9/new-readme-images/escapeai-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/raw/861b01175dc56263c47a71a85fa19530296534f9/new-readme-images/escapeai-table-text.png" />
         <br>
         <p align="center">
-          <a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank"><img src="https://img.shields.io/badge/IN_WORKS-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="In Works"></a>
+          <a href="#" target="_blank"><img src="https://img.shields.io/badge/IN_WORKS-7A1C1C?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="In Works"></a>
           &nbsp;&nbsp;
-          <a href="https://github.com/Sumdiboii/safeher-security-app-AI-voice-public" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
+          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
           &nbsp;&nbsp;
           <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5C1313?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Portfolio"></a>
         </p>
@@ -416,15 +423,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
 </div>
 
-<p align="center">
-  <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank">
-    <!-- The Hero LeetCode Card -->
-    <img src="https://leetcard.jacoblin.cool/sumedhiscodinglol?font=Fira%20Code&ext=contest&colors=6b0927,6b0927,D4AF37,ffffff,D4AF37,D4AF37,D4AF37" alt="LeetCode Contest Stats" height="355" />
-  </a>
-  
-  <!-- Your Custom GIF -->
- 
-</p>
+
 
 <!-- ============================================================ -->
 <!--                STREAK STATS & TOP LANGUAGES                  -->
