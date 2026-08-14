@@ -5,7 +5,7 @@ on:
     - cron: "0 */12 * * *" 
   workflow_dispatch:
 
-# FIX 1: Grants the action permission to push the SVG to your repository
+# Grants the action permission to push the SVG to your repository
 permissions:
   contents: write 
 
@@ -13,16 +13,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # FIX 2: Bumped checkout to v4 to clear the Node warning
       - uses: actions/checkout@v4 
       
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Gold snake, with dots scaling from light crimson down to #6b0927
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#D4AF37&color_dots=#ebedf0,#f5e5ad,#e3c878,#d4af37,#947a26
+            dist/github-contribution-grid-snake.svg?color_snake=#D4AF37&color_dots=#f0c2cd,#cf8a9d,#ad556f,#8a2745,#6b0927
             
-      # FIX 2: Bumped ghaction-github-pages to v4 to clear the Node warning
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
