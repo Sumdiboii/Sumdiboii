@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Source%20Code%20Private.%20Contact%20for%20access.-6b0927?style=for-the-badge" alt="Source Code Private. Contact for access." />
+  <img src="https://img.shields.io/badge/-Project%20Source%20Codes%20Private.%20Contact%20for%20access.-6b0927?style=for-the-badge" alt="Source Code Private. Contact for access." />
 </p>
 
 
