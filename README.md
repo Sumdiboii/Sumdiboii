@@ -15,11 +15,18 @@
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/0953b034db9e8c98ab34d5600aa2680ef5dd1a66/new-readme-images/quickaccessbox.png" />
 </p>
 
+
+
 <!-- <br> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sumdiboii/Sumdiboii/output/github-contribution-grid-snake.svg" alt="Commit Snake" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Source%20Code%20Private.%20Contact%20for%20access.-6b0927?style=for-the-badge" alt="Source Code Private. Contact for access." />
+</p>
+
 
 <!-- <br> -->
 
