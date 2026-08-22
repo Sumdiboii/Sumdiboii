@@ -439,9 +439,9 @@
 <table align="center">
   <tr>
     <!-- GitHub Streak -->
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://streak-stats.demolab.com?user=Sumdiboii&theme=dark&background=0d1117&border_radius=10&ring=8B0000&fire=8B0000&currStreakNum=ffffff&currStreakLabel=8B0000&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&stroke=8B0000&border=8B0000" alt="GitHub Streak"/>
-    </td>
+    </td> -->
     <!-- Top Languages -->
     <!-- <td align="center">
       <a href="https://github.com/Sumdiboii">
