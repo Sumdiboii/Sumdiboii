@@ -426,9 +426,9 @@
 </div>
 
 <!-- Divider -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
-</div>
+</div> -->
 
 
 
@@ -452,17 +452,17 @@
 </table>
 
 <!-- Divider -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
-</div>
+</div> -->
 
 <!-- ============================================================ -->
 <!--                    ACTIVITY GRAPH                            -->
 <!-- ============================================================ -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumdiboii&theme=react-dark&bg_color=0d1117&color=ffffff&line=8B0000&point=8B0000&area_color=8B0000&area=true&hide_border=false&border_color=8B0000" alt="Contribution Activity Graph"/>
-</p>
+</p> -->
 
 <!-- Divider -->
 <div align="center">
