@@ -34,7 +34,7 @@
   <a href="https://x.com/sumedhpimplikar" target="_blank"><img src="https://img.shields.io/badge/Twitter-6b0927?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6b0927?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6b0927?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://docs.google.com/document/d/1IdfYwDGtaz0bVFcXU2RypyG1JNUQN3WO17pW7Bk1SbA/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-6b0927?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1L82feiG8DR-dn0LSAMZStCi8eDyxqajV/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-6b0927?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://github.com/Sumdiboii/my-certificates" target="_blank"><img src="https://img.shields.io/badge/Certs-6b0927?style=for-the-badge" alt="Certifications" /></a>
   <a href="https://www.credly.com/users/sumedh-pimplikar.114636cd" target="_blank"><img src="https://img.shields.io/badge/Credly-6b0927?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
   <a href="https://medium.com/@sumedh-pimplikar" target="_blank"><img src="https://img.shields.io/badge/Medium-6b0927?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
