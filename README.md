@@ -6,7 +6,7 @@
 <!-- <br> -->
 
 <p align="center">
-  <img src="https://github.com/Sumdiboii/Sumdiboii/raw/ff6f4d0ac327e8a7d33e3446ceb841765301a7ac/new-readme-images/introboxfinal.png" />
+  <img src="https://github.com/Sumdiboii/Sumdiboii/blob/ece21ac7cd363fa11ac27496fef607a4ff1c81d3/new-readme-images/introboxfinal.png" />
 </p>
 
 <!-- <br> -->
