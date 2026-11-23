@@ -11,9 +11,9 @@
 
 <!-- <br> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/blob/0953b034db9e8c98ab34d5600aa2680ef5dd1a66/new-readme-images/quickaccessbox.png" />
-</p>
+</p> -->
 
 
 
@@ -23,31 +23,30 @@
   <img src="https://raw.githubusercontent.com/Sumdiboii/Sumdiboii/output/github-contribution-grid-snake.svg" alt="Commit Snake" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/-Project%20Source%20Codes%20Private.%20Contact%20for%20access.-6b0927?style=for-the-badge" alt="Source Code Private. Contact for access." />
-</p>
+</p> -->
 
 
 <!-- <br> -->
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sumedhpimplikar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6b0927?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/sumedhpimplikar" target="_blank"><img src="https://img.shields.io/badge/Twitter-6b0927?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6b0927?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://sumedhpimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6b0927?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="https://drive.google.com/file/d/1L82feiG8DR-dn0LSAMZStCi8eDyxqajV/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-6b0927?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <a href="https://github.com/Sumdiboii/my-certificates" target="_blank"><img src="https://img.shields.io/badge/Certs-6b0927?style=for-the-badge" alt="Certifications" /></a>
-  <a href="https://www.credly.com/users/sumedh-pimplikar.114636cd" target="_blank"><img src="https://img.shields.io/badge/Credly-6b0927?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="https://github.com/Sumdiboii/my-certificates" target="_blank"><img src="https://img.shields.io/badge/Certifications-6b0927?style=for-the-badge" alt="Certifications" /></a>
   <a href="https://medium.com/@sumedh-pimplikar" target="_blank"><img src="https://img.shields.io/badge/Medium-6b0927?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/sumedhiscodinglol/" target="_blank">
-    <!-- The Hero LeetCode Card -->
     <img src="https://leetcard.jacoblin.cool/sumedhiscodinglol?font=Fira%20Code&ext=contest&colors=6b0927,6b0927,D4AF37,ffffff,D4AF37,D4AF37,D4AF37" alt="LeetCode Contest Stats" height="355" />
   </a>
-</p>
+</p> -->
 
 
 
@@ -56,115 +55,90 @@
 </p> -->
 
 
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&utcOffset=5.5"/>
+</div>
+
+<br><br>
+
+
 
 
 <p align="center">
   <img src="https://github.com/Sumdiboii/Sumdiboii/raw/7a2d5aea685152ede4df3e9d94865d8b28608dea/new-readme-images/skillsheaderbox.png" />
   <br /><br />
-  
-  <img src="https://img.shields.io/badge/Programming_Languages-D4AF37?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Core_Languages-D4AF37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-6b0927?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-6b0927?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-6b0927?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-6b0927?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-6b0927?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-6b0927?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-6b0927?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-6b0927?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-6b0927?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-6b0927?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-6b0927?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-6b0927?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bash-6b0927?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-6b0927?style=for-the-badge&logo=gnubash&logoColor=white" />
+ 
+
+  <img src="https://img.shields.io/badge/GPU_&_AI_Infrastructure-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CUDA-6b0927?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulkan-6b0927?style=for-the-badge&logo=vulkan&logoColor=white" />
+  <img src="https://img.shields.io/badge/Triton-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorRT-6b0927?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-6b0927?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/llama.cpp-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-6b0927?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NCCL-6b0927?style=for-the-badge" />
   
-  <img src="https://img.shields.io/badge/Frontend_Development-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React.js-6b0927?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-6b0927?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-6b0927?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-6b0927?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-6b0927?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-6b0927?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/WASM-6b0927?style=for-the-badge&logo=webassembly&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Backend_&_APIs-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-6b0927?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-6b0927?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-6b0927?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-6b0927?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-6b0927?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GraphQL-6b0927?style=for-the-badge&logo=graphql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Performance_&_Optimization-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nsight_Compute-6b0927?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nsight_Systems-6b0927?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLVM-6b0927?style=for-the-badge&logo=llvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIMD_/_AVX2-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenMP-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quantization_(FP8/INT4)-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Memory_Management-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/perf_/_Valgrind-6b0927?style=for-the-badge" />
+
+
+  <img src="https://img.shields.io/badge/Systems_&_Architecture-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multithreading_&_Concurrency-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Architecture-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-6b0927?style=for-the-badge" />
   <img src="https://img.shields.io/badge/gRPC-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-6b0927?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Databases_&_Caching-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-6b0927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-6b0927?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-6b0927?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-6b0927?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-6b0927?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-6b0927?style=for-the-badge&logo=firebase&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Cloud_&_DevOps-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-6b0927?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-6b0927?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-6b0927?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/eBPF-6b0927?style=for-the-badge" />
+
+
+  <img src="https://img.shields.io/badge/Cloud,_Infra_&_Tooling-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-6b0927?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-6b0927?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-6b0927?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-6b0927?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-6b0927?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-6b0927?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-6b0927?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-6b0927?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-6b0927?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-6b0927?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-6b0927?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-6b0927?style=for-the-badge&logo=prometheus&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/AI_&_Machine_Learning-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-6b0927?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-6b0927?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-6b0927?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNNs-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GANs-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CUDA-6b0927?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Systems_&_Architecture-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Design-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating_Systems-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Networks-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/eBPF-6b0927?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/3D_&_Game_Development-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unity-6b0927?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-6b0927?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-6b0927?style=for-the-badge&logo=webgl&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Security_&_Testing-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OAuth_/_JWT-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/End--to--End_Testing-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jest-6b0927?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTest-6b0927?style=for-the-badge&logo=pytest&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Methodologies-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile_/_Scrum-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product_Ownership-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Technical_Documentation-6b0927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Optimization-6b0927?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Operating_Systems-D4AF37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Windows-6b0927?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-6b0927?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-6b0927?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOS-6b0927?style=for-the-badge" />
-
-   <br>
 
 
+  <img src="https://img.shields.io/badge/Foundational_SWE-D4AF37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-6b0927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6b0927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-6b0927?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6b0927?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-6b0927?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-6b0927?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-6b0927?style=for-the-badge" />
 
+  <br /><br />
 </p>
 
 
@@ -180,9 +154,8 @@
 
 
 
-<table align="center">
+<!-- <table align="center">
   <tbody>
-    <!-- 1. CodeBlock -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -198,7 +171,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 2. CloudCannon -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -214,7 +186,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 3. Scholar Search -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -230,7 +201,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 4. New Portfolio -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -246,7 +216,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 5. Minesweeper -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -262,7 +231,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 6. Pokedex -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -278,7 +246,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 7. PillowTalk -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -294,7 +261,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 8. MyVault -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -310,7 +276,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 9. Anantya -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -326,7 +291,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 10. Paper Scholar -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -342,7 +306,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 11. SatCom -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -358,7 +321,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 12. Old Portfolio -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -374,7 +336,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 13. FreeCrafter -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -390,7 +351,6 @@
       </td>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
-    <!-- 14. SafeHer -->
     <tr>
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
       <td width="700">
@@ -407,15 +367,76 @@
       <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
     </tr>
   </tbody>
+</table> -->
+
+
+<table align="center">
+  <tbody>
+    <!-- 1. inferserve -->
+    <tr>
+      <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
+      <td width="700">
+        <img src="https://github.com/Sumdiboii/Sumdiboii/blob/8168c279d2ce53ffd669789ab09d4b5d96bb18a2/new-readme-images/Inferserve-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/8168c279d2ce53ffd669789ab09d4b5d96bb18a2/new-readme-images/inferserve-table-text.png" />
+        <br>
+        <p align="center">
+          <a href="https://github.com/Sumdiboii/inferserve-low-latency-inference" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
+        </p>
+      </td>
+      <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
+    </tr>
+    <!-- 2. forgecc -->
+    <tr>
+      <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
+      <td width="700">
+        <img src="https://github.com/Sumdiboii/Sumdiboii/blob/8168c279d2ce53ffd669789ab09d4b5d96bb18a2/new-readme-images/forgecc-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/8168c279d2ce53ffd669789ab09d4b5d96bb18a2/new-readme-images/forgecc-table-text.png" />
+        <br>
+        <p align="center">
+          <a href="https://github.com/Sumdiboii/forgecc-tensor-compiler" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
+        </p>
+      </td>
+      <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
+    </tr>
+    <!-- 3. simtlab-->
+    <tr>
+      <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
+      <td width="700">
+        <img src="https://github.com/Sumdiboii/Sumdiboii/blob/8168c279d2ce53ffd669789ab09d4b5d96bb18a2/new-readme-images/simtlab-header.png" /><img src="https://github.com/Sumdiboii/Sumdiboii/blob/8168c279d2ce53ffd669789ab09d4b5d96bb18a2/new-readme-images/simtlab-table-text.png" />
+        <br>
+        <p align="center">
+          <a href="https://github.com/Sumdiboii/simtlab-gpu-simulator" target="_blank"><img src="https://img.shields.io/badge/Repository-4A0E0E?style=for-the-badge&logo=github&logoColor=FFD700" alt="Repository"></a>
+        </p>
+      </td>
+      <td align="center" width="123"><img src="https://github.com/Sumdiboii/Sumdiboii/raw/b6879ae805dea838594264a136c0ab6ba0c4ff5d/new-readme-images/headblock.jpg" width="123" /></td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sumdiboii/Sumdiboii/main/new-readme-images/comic.jpg" style="width: 100%; max-width: 100%;" alt="Manga comic strip" />
+  <img src="https://img.shields.io/badge/Archived_Web_Builds_(Unmaintained_/_May_Be_Offline)-D4AF37?style=for-the-badge" alt="Archived Web Builds" />
+  <br /><br />
+  <a href="https://codeblock-sumo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/CodeBlock-6b0927?style=for-the-badge" alt="CodeBlock" /></a>
+  <a href="https://cloud-cannon-space-app.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/CloudCannon-6b0927?style=for-the-badge" alt="CloudCannon" /></a>
+  <a href="https://web-crawler-openalex-semantic-resea.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/ScholarSearch-6b0927?style=for-the-badge" alt="ScholarSearch" /></a>
+  <a href="https://sumedh-pimplikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/3D_Portfolio-6b0927?style=for-the-badge" alt="3D Portfolio" /></a>
+  <a href="https://better-minesweeper-react.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Better_Minesweeper-6b0927?style=for-the-badge" alt="Better Minesweeper" /></a>
+  <a href="https://pokedex-gamma-two.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Pokédex-6b0927?style=for-the-badge" alt="Pokédex" /></a>
+  <a href="https://pillowtalk-dear-diary-web-app-git-se-08ba82-sumdiboiis-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PillowTalk-6b0927?style=for-the-badge" alt="PillowTalk" /></a>
+  <a href="https://password-manager-cybersecurity.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MyVault-6b0927?style=for-the-badge" alt="MyVault" /></a>
+  <a href="https://anantya-2-k25.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Anantya_2K25-6b0927?style=for-the-badge" alt="Anantya 2K25" /></a>
+  <a href="https://serp-api-web-crawler-summer-interns.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Paper_Scholar-6b0927?style=for-the-badge" alt="Paper Scholar" /></a>
+  <a href="https://satellite-image-compression.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/SatCom_Compression-6b0927?style=for-the-badge" alt="SatCom Compression" /></a>
+  <a href="https://portfolio-website-c16e.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio_v1-6b0927?style=for-the-badge" alt="Portfolio v1" /></a>
+  <a href="https://advanced-diffusion-models-for-image.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/FreeCrafter-6b0927?style=for-the-badge" alt="FreeCrafter" /></a>
 </p>
 
-<br>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Sumdiboii/Sumdiboii/main/new-readme-images/comic.jpg" style="width: 100%; max-width: 100%;" alt="Manga comic strip" />
+</p> -->
+
+<!-- <br>
 
 <div align="center">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
@@ -423,7 +444,7 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumdiboii&theme=dark&bg_color=0d1117&title_color=8B0000&icon_color=8B0000&text_color=ffffff&utcOffset=5.5"/>
-</div>
+</div> -->
 
 <!-- Divider -->
 <!-- <div align="center">
